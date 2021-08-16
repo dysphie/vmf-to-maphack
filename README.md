@@ -3,7 +3,7 @@
 Creates a [MapHack file](https://developer.valvesoftware.com/wiki/Maphack_Fundamentals) out of a [Valve Map Format file](https://developer.valvesoftware.com/wiki/Valve_Map_Format) which contains all of its entities.
 
 ## Requirements
-  - `pyparsing`
+  - pyparsing (`pip install pyparsing`)
 
 ## Usage
   - `python vmf2mh.py map_file.vmf`
