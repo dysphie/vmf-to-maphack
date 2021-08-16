@@ -7,4 +7,4 @@ Creates a [MapHack file](https://developer.valvesoftware.com/wiki/Maphack_Fundam
 
 ## Usage
   - `python vmf2mh.py map_file.vmf`
-    - Outputs `<map_file>_maphack.txt` to the work folder 
+    - Outputs `<map_file>_maphack.txt` to the work folder. It might take a while..
