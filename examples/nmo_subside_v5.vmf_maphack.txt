@@ -6,7 +6,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1381671"
 				"angles" "-15 330.5 -180"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -22,7 +21,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1381666"
 				"_cone" "55"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -46,7 +44,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1381681"
 				"_light" "177 188 224 100"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -58,7 +55,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1437202"
 				"angles" "0 303.5 0"
 				"damagetoenablemotion" "0"
 				"Damagetype" "0"
@@ -88,7 +84,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1437214"
 				"angles" "-33.5 23 90"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -121,7 +116,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1234728"
 				"angles" "0 270 0"
 				"effect_name" "nmrih_campblood_fire"
 				"start_active" "1"
@@ -132,7 +126,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1236823"
 				"angles" "0 182.5 0"
 				"effect_name" "window_fire_01"
 				"start_active" "1"
@@ -143,7 +136,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1237799"
 				"angles" "-37.4582 183.15 -1.917"
 				"effect_name" "window_fire_02"
 				"start_active" "1"
@@ -154,7 +146,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1238319"
 				"angles" "33.2744 171.821 -3.07232"
 				"effect_name" "flame_thrower"
 				"start_active" "1"
@@ -165,7 +156,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1239099"
 				"angles" "0 0 0"
 				"effect_name" "nmrih_house_fire_128_128"
 				"start_active" "1"
@@ -176,7 +166,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1239424"
 				"angles" "0 0 0"
 				"cpoint1_parent" "0"
 				"cpoint2_parent" "0"
@@ -195,7 +184,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1239684"
 				"angles" "0 182.5 0"
 				"effect_name" "window_fire_01"
 				"start_active" "1"
@@ -206,7 +194,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1242155"
 				"angles" "0 158 0"
 				"effect_name" "door_fire_01"
 				"start_active" "1"
@@ -217,7 +204,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1242633"
 				"angles" "71.7746 273.114 113.295"
 				"effect_name" "door_fire_01"
 				"start_active" "1"
@@ -228,7 +214,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1243478"
 				"angles" "0 217 0"
 				"effect_name" "door_fire_01"
 				"start_active" "1"
@@ -239,7 +224,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1248928"
 				"angles" "0 182.5 0"
 				"effect_name" "window_fire_01"
 				"start_active" "1"
@@ -250,7 +234,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1249058"
 				"angles" "0 338 0"
 				"effect_name" "door_fire_01"
 				"start_active" "1"
@@ -261,7 +244,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1250012"
 				"angles" "0 0 0"
 				"effect_name" "nmrih_police_lights_red"
 				"start_active" "1"
@@ -272,7 +254,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1362019"
 				"angles" "0 0 0"
 				"effect_name" "nmrih_police_lights_red"
 				"start_active" "1"
@@ -283,7 +264,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1379909"
 				"angles" "33.2744 186.821 -3.07232"
 				"effect_name" "flame_thrower"
 				"start_active" "1"
@@ -294,7 +274,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1565838"
 				"angles" "0 0 0"
 				"effect_name" "nmrih_house_fire_inside_smoke_1"
 				"start_active" "1"
@@ -305,7 +284,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "864982"
 				"angles" "90 0 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -321,7 +299,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "42"
 				"_cone" "45"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -343,7 +320,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "51"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -363,7 +339,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1677044"
 				"angles" "90 0 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -379,7 +354,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1677046"
 				"_cone" "80"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -401,7 +375,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1677051"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -421,7 +394,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1970379"
 				"angles" "0 0 0"
 				"EntityTemplate" "obj3_t"
 				"PostSpawnDirection" "0 0 0"
@@ -435,7 +407,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1418472"
 				"angles" "0 346 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -471,7 +442,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "708897"
 				"angles" "0 82.5 0"
 				"default_spawn" "1"
 				"spawnflags" "0"
@@ -483,7 +453,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "708901"
 				"angles" "0 0 0"
 				"default_spawn" "1"
 				"spawnflags" "0"
@@ -495,7 +464,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "708887"
 				"angles" "0 0 0"
 				"default_spawn" "1"
 				"spawnflags" "0"
@@ -507,7 +475,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "708903"
 				"angles" "0 0 0"
 				"default_spawn" "1"
 				"spawnflags" "0"
@@ -519,7 +486,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "708889"
 				"angles" "0 0 0"
 				"default_spawn" "1"
 				"spawnflags" "0"
@@ -531,7 +497,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "708891"
 				"angles" "0 0 0"
 				"default_spawn" "1"
 				"spawnflags" "0"
@@ -543,7 +508,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "708893"
 				"angles" "0 0 0"
 				"default_spawn" "1"
 				"spawnflags" "0"
@@ -555,7 +519,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "708895"
 				"angles" "0 0 0"
 				"default_spawn" "1"
 				"spawnflags" "0"
@@ -567,7 +530,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "16"
 				"fadeInDuration" "1"
 				"fadeOutDuration" "1"
 				"filename" "materials/correction/nmo_cabin.raw"
@@ -582,7 +544,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "20"
 				"targetname" "durkhaz"
 				"origin" "-8 0 8"
 			}
@@ -591,7 +552,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "26"
 				"spawnflags" "1"
 				"origin" "-8 16 8"
 				"connections"
@@ -608,7 +568,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "28"
 				"OverlayName1" "overlays/screenspaceshadow.vmt"
 				"OverlayTime1" "-1"
 				"OverlayTime10" "1.0"
@@ -628,7 +587,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1337"
 				"angles" "0 0 0"
 				"GlowEntity10Color" "51 0 204"
 				"GlowEntity1Color" "64 0 0"
@@ -664,7 +622,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1693"
 				"max_zombie_count" "85"
 				"spawn_density" "10"
 				"spawnflags" "0"
@@ -675,7 +632,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "7446"
 				"ajarangles" "0 0 0"
 				"angles" "0 270 0"
 				"axis" "-121.01 -91.99 56, -121.01 -91.99 56"
@@ -695,7 +651,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "8079"
 				"angles" "0 0 0"
 				"origin" "212.88 -71.91 32.76"
 				"spawnflags" "0"
@@ -705,7 +660,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "8082"
 				"angles" "0 0 0"
 				"origin" "228 -45 32.76"
 				"spawnflags" "0"
@@ -715,7 +669,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "8085"
 				"angles" "0 308.5 0"
 				"origin" "227.96 -54.63 32.76"
 				"spawnflags" "0"
@@ -725,7 +678,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "8205"
 				"_cone" "55"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -750,7 +702,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "8210"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -769,7 +720,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "8236"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "-44 -287 -16"
@@ -795,7 +745,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "8320"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/debris_concrete001a"
@@ -806,7 +755,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "10239"
 				"ajarangles" "0 0 0"
 				"angles" "0 0 0"
 				"axis" "140 260.99 56, 140 260.99 56"
@@ -828,7 +776,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "11799"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -847,7 +794,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "11806"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -867,7 +813,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "19547"
 				"sides" ""
 				"origin" "40 448 24"
 			}
@@ -876,7 +821,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "19775"
 				"_cone" "55"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -901,7 +845,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "19780"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -919,7 +862,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1301"
 				"angles" "90 90 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -958,7 +900,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "20306"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/stain001a"
 				"origin" "-200 228 0"
@@ -968,7 +909,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "20327"
 				"angles" "-90 270 0"
 				"BasisNormal" "-1.31134e-007 1 -4.37114e-008"
 				"BasisOrigin" "-137 192 54"
@@ -994,7 +934,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "20471"
 				"angles" "-90 270 0"
 				"BasisNormal" "-1.31134e-007 1 -4.37114e-008"
 				"BasisOrigin" "-103 193 67"
@@ -1020,7 +959,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "20881"
 				"angles" "0 30 -91.5"
 				"origin" "-133.09 161.28 1.22"
 				"spawnflags" "0"
@@ -1030,7 +968,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "21206"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/bu_trash007"
@@ -1041,7 +978,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "21633"
 				"angles" "0 303.5 0"
 				"damagetoenablemotion" "0"
 				"Damagetype" "0"
@@ -1071,7 +1007,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "41465"
 				"damagescale" "0"
 				"fireattack" "4"
 				"firesize" "32"
@@ -1087,7 +1022,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "41467"
 				"_distance" "0"
 				"_light" "255 139 70 130"
 				"_lightHDR" "-1 -1 -1 1"
@@ -1102,7 +1036,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "42177"
 				"_distance" "0"
 				"_light" "255 139 70 130"
 				"_lightHDR" "-1 -1 -1 1"
@@ -1117,7 +1050,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "42182"
 				"damagescale" "0"
 				"fireattack" "4"
 				"firesize" "32"
@@ -1133,7 +1065,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "58985"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -1158,7 +1089,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "58990"
 				"angles" "15 0 0"
 				"disablereceiveshadows" "0"
 				"HDRColorScale" "1.0"
@@ -1176,7 +1106,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "59054"
 				"angles" "15 0 0"
 				"disablereceiveshadows" "0"
 				"HDRColorScale" "1.0"
@@ -1194,7 +1123,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "59056"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -1219,7 +1147,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "64088"
 				"_distance" "280"
 				"_light" "158 158 158 30"
 				"_lightHDR" "-1 -1 -1 1"
@@ -1234,7 +1161,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "64178"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "1.5"
@@ -1255,7 +1181,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "64185"
 				"_fifty_percent_distance" "350"
 				"_hardfalloff" "890"
 				"_light" "228 217 175 20"
@@ -1270,7 +1195,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "64190"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/bu_stain002"
@@ -1281,7 +1205,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "66057"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "197 266 3"
@@ -1307,7 +1230,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "68122"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -1326,7 +1248,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "68125"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -1346,7 +1267,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "69354"
 				"ajarangles" "0 0 0"
 				"angles" "0 90 0"
 				"axis" "-251.99 891 214, -251.99 891 214"
@@ -1368,7 +1288,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "73309"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -1387,7 +1306,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "73339"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -1406,7 +1324,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "69744"
 				"angles" "0 90 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -1441,7 +1358,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "69746"
 				"angles" "0 90 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -1476,7 +1392,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "69748"
 				"angles" "0 90 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -1511,7 +1426,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "70189"
 				"angles" "0 90 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -1546,7 +1460,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "76303"
 				"angles" "0 0 -180"
 				"BasisNormal" "0 8.74228e-008 -1"
 				"BasisOrigin" "-308 809 478"
@@ -1572,7 +1485,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "76523"
 				"angles" "0 0 90"
 				"BasisNormal" "0 -1 -4.37114e-008"
 				"BasisOrigin" "-272 872 368.75"
@@ -1598,7 +1510,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "87448"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -1618,7 +1529,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "89483"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -1638,7 +1548,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "97669"
 				"_fifty_percent_distance" "170"
 				"_hardfalloff" "445"
 				"_light" "228 217 175 20"
@@ -1653,7 +1562,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "97687"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -1672,7 +1580,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "97708"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -1691,7 +1598,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "98069"
 				"_fifty_percent_distance" "170"
 				"_hardfalloff" "445"
 				"_light" "228 217 175 20"
@@ -1706,7 +1612,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "98079"
 				"_fifty_percent_distance" "170"
 				"_hardfalloff" "445"
 				"_light" "228 217 175 20"
@@ -1721,7 +1626,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "130313"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2"
@@ -1742,7 +1646,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "130363"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -1762,7 +1665,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1804"
 				"_cone" "45"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -1784,7 +1686,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1809"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -1804,7 +1705,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "87364"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2"
@@ -1825,7 +1725,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "87367"
 				"_cone" "45"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -1847,7 +1746,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "87372"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -1867,7 +1765,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "131040"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "1.5"
@@ -1888,7 +1785,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "131047"
 				"_fifty_percent_distance" "350"
 				"_hardfalloff" "890"
 				"_light" "228 217 175 20"
@@ -1903,7 +1799,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "140749"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "1.5"
@@ -1924,7 +1819,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "140752"
 				"_fifty_percent_distance" "350"
 				"_hardfalloff" "890"
 				"_light" "228 217 175 20"
@@ -1939,7 +1833,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "141613"
 				"angles" "62.8632 128.362 27.6501"
 				"disablereceiveshadows" "0"
 				"HDRColorScale" "1.0"
@@ -1957,7 +1850,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "141693"
 				"sides" ""
 				"origin" "1028 819 255"
 			}
@@ -1966,7 +1858,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "130820"
 				"_fifty_percent_distance" "170"
 				"_hardfalloff" "445"
 				"_light" "228 217 175 20"
@@ -1981,7 +1872,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "144490"
 				"angles" "-89.5 0 90"
 				"BasisNormal" "4.37097e-008 -1 -3.8145e-010"
 				"BasisOrigin" "791 1212 319.39"
@@ -2007,7 +1897,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "144538"
 				"angles" "-7.3595 0 90"
 				"BasisNormal" "5.32708e-009 -1 -4.33855e-008"
 				"BasisOrigin" "1108 1088 253"
@@ -2033,7 +1922,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "144616"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalstain010a"
@@ -2044,7 +1932,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "144743"
 				"angles" "0 90.4878 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "809.722 772.222 162"
@@ -2070,7 +1957,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "144827"
 				"angles" "0 90.5 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "1052 891 162"
@@ -2096,7 +1982,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "144869"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/bu_trash009"
@@ -2107,7 +1992,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "144923"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/bills01a"
@@ -2118,7 +2002,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "145043"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/cb_dirt01"
@@ -2129,7 +2012,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "145115"
 				"angles" "0 269.034 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "748 911 163"
@@ -2155,7 +2037,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "145199"
 				"angles" "-0.487796 270 90"
 				"BasisNormal" "-1 -3.82137e-015 4.37114e-008"
 				"BasisOrigin" "1283 537 362"
@@ -2181,7 +2062,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "145301"
 				"angles" "-0.276777 180 -90"
 				"BasisNormal" "3.81448e-010 -1 4.37097e-008"
 				"BasisOrigin" "1015 1207 406"
@@ -2207,7 +2087,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "145397"
 				"angles" "-0.487796 270 90"
 				"BasisNormal" "-1 -3.82137e-015 4.37114e-008"
 				"BasisOrigin" "1280 705 202"
@@ -2233,7 +2112,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "145681"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "1.5"
@@ -2254,7 +2132,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "145684"
 				"_fifty_percent_distance" "350"
 				"_hardfalloff" "890"
 				"_light" "228 217 175 20"
@@ -2269,7 +2146,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "146356"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -2288,7 +2164,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "146363"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -2308,7 +2183,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "148719"
 				"ajarangles" "0 80 0"
 				"angles" "0 90 0"
 				"axis" "1259.99 1220.5 214, 1259.99 1220.5 214"
@@ -2335,7 +2209,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "149101"
 				"angles" "0 0 0"
 				"damagetoenablemotion" "0"
 				"Damagetype" "0"
@@ -2374,7 +2247,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "149346"
 				"ajarangles" "0 0 0"
 				"angles" "0 0 0"
 				"axis" "1296.02 701 362, 1296.02 700.99 362"
@@ -2398,7 +2270,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "157524"
 				"angles" "34.36 190.495 -5.29651"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -2430,7 +2301,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "157748"
 				"_distance" "280"
 				"_light" "150 90 1 30"
 				"_lightHDR" "-1 -1 -1 1"
@@ -2445,7 +2315,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "158122"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -2464,7 +2333,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "158147"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -2483,7 +2351,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "158203"
 				"origin" "-62.7175 1034 223"
 			}
 		}
@@ -2491,7 +2358,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "158285"
 				"_fifty_percent_distance" "350"
 				"_hardfalloff" "890"
 				"_light" "228 217 175 20"
@@ -2506,7 +2372,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "158290"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "1.5"
@@ -2527,7 +2392,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "158400"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -2547,7 +2411,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "159956"
 				"angles" "0 180 0"
 				"disablereceiveshadows" "0"
 				"disableshadows" "1"
@@ -2581,7 +2444,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "165306"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "1364 685 310"
@@ -2607,7 +2469,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "168559"
 				"angles" "0.0640636 90 -90"
 				"BasisNormal" "-1 7.64274e-015 -4.37114e-008"
 				"BasisOrigin" "1270 813 412"
@@ -2633,7 +2494,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "168624"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -2652,7 +2512,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "168629"
 				"_cone" "45"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -2676,7 +2535,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "168634"
 				"damagescale" "1.0"
 				"fireattack" "4"
 				"firesize" "18"
@@ -2692,7 +2550,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "168697"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -2711,7 +2568,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "168881"
 				"angles" "0 308.5 0"
 				"origin" "204.17 76.64 49.88"
 				"spawnflags" "0"
@@ -2721,7 +2577,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "169115"
 				"ammo" "75"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
@@ -2735,7 +2590,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "169123"
 				"ammo" "75"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
@@ -2749,7 +2603,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "169127"
 				"angles" "0 0 0"
 				"origin" "1543 530 360"
 			}
@@ -2758,7 +2611,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "169141"
 				"ammo" "75"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
@@ -2771,7 +2623,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "169145"
 				"ammo" "75"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
@@ -2784,7 +2635,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "169151"
 				"ammo" "75"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
@@ -2797,7 +2647,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "169184"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"angles" "-90 45 0"
@@ -2810,7 +2659,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "169192"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"angles" "-90 101.5 0"
@@ -2823,7 +2671,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "169203"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -2842,7 +2689,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "170416"
 				"angles" "0 343.124 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "1406 552 310"
@@ -2868,7 +2714,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "186081"
 				"sides" ""
 				"origin" "935.578 1459 58"
 			}
@@ -2877,7 +2722,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "190002"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -2897,7 +2741,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "190005"
 				"_cone" "55"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -2922,7 +2765,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "190086"
 				"_cone" "45"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -2947,7 +2789,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "190229"
 				"angles" "0 90.4901 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "1029 1416 -15"
@@ -2973,7 +2814,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "190361"
 				"angles" "0 90.4901 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "939 1374 -15"
@@ -2999,7 +2839,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "193456"
 				"_cone" "80"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -3024,7 +2863,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "193650"
 				"_fifty_percent_distance" "170"
 				"_hardfalloff" "445"
 				"_light" "185 185 185 20"
@@ -3039,7 +2877,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "199512"
 				"attach1" "obj2_obstacle"
 				"hingeaxis" "1255 2330 56"
 				"maxSoundThreshold" "80"
@@ -3053,7 +2890,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "199616"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -3078,7 +2914,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "203096"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -3097,7 +2932,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "205374"
 				"angles" "0 0 0"
 				"effect_name" "explosion_tnt_1"
 				"start_active" "0"
@@ -3109,7 +2943,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "205646"
 				"amplitude" "4"
 				"duration" "2"
 				"frequency" "4"
@@ -3123,7 +2956,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "205667"
 				"fadeoutsecs" "0"
 				"health" "10"
 				"message" "planck_exp"
@@ -3140,7 +2972,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "205801"
 				"angles" "0 21 0"
 				"damagetoenablemotion" "0"
 				"Damagetype" "0"
@@ -3174,7 +3005,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "205848"
 				"angles" "0 0 90"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -3206,7 +3036,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "205891"
 				"angles" "0 0 0"
 				"GlowEntity10Color" "51 0 204"
 				"GlowEntity1Color" "64 0 0"
@@ -3228,7 +3057,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "205909"
 				"angles" "0 0 0"
 				"GlowEntity10Color" "51 0 204"
 				"GlowEntity1Color" "64 0 0"
@@ -3251,7 +3079,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "206017"
 				"spawnflags" "1"
 				"StartDisabled" "0"
 				"targetname" "obj2_relay"
@@ -3285,7 +3112,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "206051"
 				"angles" "0 0 0"
 				"Magnitude" "1"
 				"MaxDelay" "0.1"
@@ -3299,7 +3125,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "206119"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -3324,7 +3149,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "8088"
 				"_light" "177 188 224 15"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "0.35"
@@ -3336,7 +3160,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "8093"
 				"_cone" "55"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -3360,7 +3183,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "8098"
 				"angles" "-15 124.5 -180"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -3376,7 +3198,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "206290"
 				"angles" "0 90 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -3392,7 +3213,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "215959"
 				"angles" "0 90.5343 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "1231 2434 82.1723"
@@ -3418,7 +3238,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "216031"
 				"angles" "0 90.707 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "1202 2438 82.1723"
@@ -3444,7 +3263,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "216092"
 				"angles" "0.211251 0 90"
 				"BasisNormal" "5.19029e-015 -1 -4.37114e-008"
 				"BasisOrigin" "1316 2446 151.487"
@@ -3470,7 +3288,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "216176"
 				"angles" "0 332.919 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "1145 2403 82.1723"
@@ -3496,7 +3313,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "216475"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalstain002a"
@@ -3507,7 +3323,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "219449"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -3527,7 +3342,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "219454"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -3551,7 +3365,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "219463"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -3572,7 +3385,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "221580"
 				"angles" "0 0 0"
 				"texture" "decals/decal_signprotection009a"
 				"origin" "1272 2656 302.493"
@@ -3582,7 +3394,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "221694"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/bills02a"
@@ -3593,7 +3404,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "221940"
 				"angles" "0.998471 90 90"
 				"BasisNormal" "1 -8.66466e-008 4.52305e-008"
 				"BasisOrigin" "1371 2672 277"
@@ -3619,7 +3429,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "222107"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/bu_footprint001"
@@ -3630,7 +3439,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "224327"
 				"origin" "1328.6 2367 296"
 			}
 		}
@@ -3638,7 +3446,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "226086"
 				"angles" "0 270.49 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "1456 2492 226.172"
@@ -3664,7 +3471,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "226273"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -3682,7 +3488,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "226309"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -3703,7 +3508,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "226589"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -3721,7 +3525,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "228302"
 				"_cone" "90"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -3745,7 +3548,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "229121"
 				"angles" "0 270.49 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "1437 2674 226.172"
@@ -3771,7 +3573,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "229211"
 				"angles" "0.282633 90 -90"
 				"BasisNormal" "-1 7.64274e-015 -4.37114e-008"
 				"BasisOrigin" "1537 2283.89 291.82"
@@ -3797,7 +3598,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "229746"
 				"angles" "0 0.485439 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "1155 2428 226.172"
@@ -3823,7 +3623,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "241541"
 				"spawnflags" "2"
 				"targetname" "event1_zombietemp"
 				"Template01" "event1_zombie"
@@ -3834,7 +3633,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "241547"
 				"angles" "0 0 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -3848,7 +3646,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "241653"
 				"angles" "0 180 0"
 				"EntityTemplate" "event1_zombietemp"
 				"PostSpawnDirection" "0 0 0"
@@ -3864,7 +3661,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "247189"
 				"fadeoutsecs" "0"
 				"health" "10"
 				"message" "plats/tram_hit4.wav"
@@ -3881,7 +3677,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "247219"
 				"angles" "0 180 0"
 				"EntityTemplate" "event1_zombietemp"
 				"PostSpawnDirection" "0 0 0"
@@ -3897,7 +3692,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "317962"
 				"angles" "0.208963 0 90"
 				"BasisNormal" "-3.81452e-010 -1 -4.37097e-008"
 				"BasisOrigin" "2122 3365 451"
@@ -3923,7 +3717,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "318208"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -3947,7 +3740,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "318228"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -3971,7 +3763,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "320276"
 				"sides" ""
 				"origin" "2021 2995 283"
 			}
@@ -3980,7 +3771,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "328460"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2"
@@ -4001,7 +3791,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "328463"
 				"_cone" "45"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -4023,7 +3812,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "328468"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -4043,7 +3831,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "328708"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -4067,7 +3854,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "328785"
 				"angles" "10 66 90"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -4084,7 +3870,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "328873"
 				"angles" "28.5 90 90"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -4100,7 +3885,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "328900"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -4120,7 +3904,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "333077"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -4140,7 +3923,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "333105"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -4161,7 +3943,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "333212"
 				"angles" "0 0 0"
 				"LowPriority" "1"
 				"texture" "decals/decalsigndanger001c"
@@ -4172,7 +3953,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "333470"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -4192,7 +3972,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "333478"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -4213,7 +3992,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "336597"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -4234,7 +4012,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "336600"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -4258,7 +4035,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "336871"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -4278,7 +4054,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "346409"
 				"angles" "0 270 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -4315,7 +4090,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "352947"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -4339,7 +4113,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "352952"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -4359,7 +4132,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "353220"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -4383,7 +4155,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "353225"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -4404,7 +4175,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "353232"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -4424,7 +4194,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "353335"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -4445,7 +4214,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "353338"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -4469,7 +4237,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "353343"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -4489,7 +4256,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "354725"
 				"_cone" "55"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -4513,7 +4279,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "354832"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -4533,7 +4298,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "355092"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/bu_vent001"
 				"origin" "1792 3444 276"
@@ -4543,7 +4307,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "355107"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/bu_vent001"
 				"origin" "1792 3853.74 276"
@@ -4553,7 +4316,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "355137"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/metalvent001a"
 				"origin" "1493 2498 253.841"
@@ -4563,7 +4325,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "355149"
 				"angles" "0 0 0"
 				"texture" "decals/decalmetalgrate017a"
 				"origin" "1493 3384 267"
@@ -4573,7 +4334,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "355191"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -4594,7 +4354,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "355198"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -4614,7 +4373,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "355324"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -4634,7 +4392,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "355334"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -4654,7 +4411,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "355359"
 				"angles" "0 0 0"
 				"texture" "decals/decalmetalgrate016a"
 				"origin" "1376 3648 186"
@@ -4664,7 +4420,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "355371"
 				"angles" "0 0 0"
 				"texture" "decals/decalstain002a"
 				"origin" "1376 3580 271"
@@ -4674,7 +4429,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "355410"
 				"angles" "0 0 0"
 				"texture" "decals/decalstain011a"
 				"origin" "1552 3912 272"
@@ -4684,7 +4438,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "358695"
 				"max" "2"
 				"targetname" "obj3_counter"
 				"origin" "1787 3444 292"
@@ -4709,7 +4462,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "358767"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -4731,7 +4483,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "358810"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -4753,7 +4504,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "358891"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -4775,7 +4525,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "358897"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -4797,7 +4546,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "359119"
 				"damagetype" "64"
 				"Negated" "Allow entities that match criteria"
 				"targetname" "obj3_filter1"
@@ -4808,7 +4556,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "359131"
 				"angles" "0 0 0"
 				"GlowEntity10Color" "51 0 204"
 				"GlowEntity1Color" "64 0 0"
@@ -4834,7 +4581,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "359986"
 				"angles" "0 0 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -4867,7 +4613,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "362499"
 				"angles" "0 0 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -4881,7 +4626,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "362508"
 				"angles" "0 0 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -4895,7 +4639,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "362527"
 				"angles" "0 0 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -4909,7 +4652,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "363456"
 				"angles" "0 90 -90"
 				"cpoint1_parent" "0"
 				"cpoint2_parent" "0"
@@ -4928,7 +4670,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "363995"
 				"angles" "0 0 0"
 				"health" "35"
 				"minangle" "360"
@@ -4944,7 +4685,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "367086"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/bu_vent001"
 				"origin" "2432 2596 149"
@@ -4954,7 +4694,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "367234"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/ng_toxteth_graff01b"
 				"origin" "2432 2821 448.974"
@@ -4964,7 +4703,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "367267"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/sp_graffiti001a"
@@ -4975,7 +4713,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "367351"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/ng_toxteth_graff01e"
 				"origin" "2312 2602 360.521"
@@ -4985,7 +4722,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "367357"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/ng_toxteth_graff01g"
 				"origin" "2432 2576 403.995"
@@ -4995,7 +4731,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "367417"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/ng_toxteth_graff01b"
 				"origin" "1577 2562 264.019"
@@ -5005,7 +4740,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "367456"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/sp_graffiti004a"
 				"origin" "2583 3000 278"
@@ -5015,7 +4749,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "367492"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/sp_graffiti004a"
 				"origin" "2616 3024 265.722"
@@ -5025,7 +4758,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "367613"
 				"angles" "0 0 0"
 				"texture" "decals/decalgraffiti018a"
 				"origin" "1489 2739 267.288"
@@ -5035,7 +4767,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "367798"
 				"angles" "-15.6564 90 90"
 				"BasisNormal" "1 -1.63746e-008 4.05285e-008"
 				"BasisOrigin" "1537 2685 378"
@@ -5061,7 +4792,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "368029"
 				"angles" "0.318053 0 90"
 				"BasisNormal" "-3.81444e-010 -1 -4.37097e-008"
 				"BasisOrigin" "2885 3214 293.25"
@@ -5087,7 +4817,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "368224"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/sp_graffiti002a"
 				"origin" "2836 3000 261.567"
@@ -5097,7 +4826,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "368282"
 				"angles" "0 0 0"
 				"texture" "decals/decalgraffiti044a"
 				"origin" "2556 2792 240.572"
@@ -5107,7 +4835,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "375707"
 				"angles" "-19.1494 180 90"
 				"BasisNormal" "-2.70989e-008 1 5.5561e-008"
 				"BasisOrigin" "224 192 154"
@@ -5133,7 +4860,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "375869"
 				"angles" "-0.149363 180 90"
 				"BasisNormal" "-4.37114e-008 1 4.37114e-008"
 				"BasisOrigin" "36 192 193"
@@ -5159,7 +4885,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "375952"
 				"angles" "12.3506 180 90"
 				"BasisNormal" "-5.21361e-008 1 3.32144e-008"
 				"BasisOrigin" "-165 192 160"
@@ -5185,7 +4910,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "376308"
 				"angles" "0 259.265 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "844 266 146"
@@ -5211,7 +4935,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "379776"
 				"fireballsprite" "sprites/zerogxplode.spr"
 				"iMagnitude" "3000"
 				"rendermode" "5"
@@ -5224,7 +4947,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "379811"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/sp_graffiti001a"
 				"origin" "3300 2853 251.455"
@@ -5234,7 +4956,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "379944"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/bu_stain002"
 				"origin" "2220 2520 302"
@@ -5244,7 +4965,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "379983"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/ng_toxteth_graff01a"
 				"origin" "2204 2520 288.832"
@@ -5254,7 +4974,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "379989"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/stain001a"
 				"origin" "2247 2520 400.663"
@@ -5264,7 +4983,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "380094"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -5288,7 +5006,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "380270"
 				"angles" "0 0 0"
 				"CriterionDistance" "2"
 				"CriterionVisibility" "2"
@@ -5308,7 +5025,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "380603"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/bu_blood001"
@@ -5319,7 +5035,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "380749"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/bills01a"
@@ -5330,7 +5045,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "381059"
 				"angles" "0 0 0"
 				"CriterionDistance" "2"
 				"CriterionVisibility" "2"
@@ -5350,7 +5064,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "381117"
 				"angles" "-0.824219 265.068 170.535"
 				"origin" "1490.24 2463.19 236.42"
 				"spawnflags" "0"
@@ -5360,7 +5073,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "381205"
 				"angles" "0 235 90"
 				"origin" "927.89 2065.79 18.2"
 				"spawnflags" "0"
@@ -5370,7 +5082,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "381342"
 				"health" "10"
 				"message" "ambient/machines/thumper_shutdown1.wav"
 				"pitch" "100"
@@ -5385,7 +5096,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "386200"
 				"angles" "0 0 0"
 				"texture" "decals/decalgraffiti001b"
 				"origin" "2376 2484 382.651"
@@ -5395,7 +5105,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "386215"
 				"angles" "0 0 0"
 				"texture" "decals/decalgraffiti001b"
 				"origin" "1720 3378 280.162"
@@ -5405,7 +5114,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "386232"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -5425,7 +5133,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "395373"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalsigndanger001e"
@@ -5436,7 +5143,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "395397"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalsigndanger001e"
@@ -5447,7 +5153,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "395854"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -5468,7 +5173,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "395861"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -5492,7 +5196,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "395866"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -5512,7 +5215,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "395956"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -5533,7 +5235,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "395963"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -5557,7 +5258,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "395968"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -5577,7 +5277,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "396017"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -5601,7 +5300,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "396205"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -5621,7 +5319,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "398681"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -5642,7 +5339,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "398684"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -5666,7 +5362,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "398689"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -5686,7 +5381,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "398762"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -5710,7 +5404,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "398771"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -5730,7 +5423,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "398880"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -5751,7 +5443,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "398895"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -5772,7 +5463,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "398921"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -5793,7 +5483,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "399010"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -5811,7 +5500,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "400959"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalmetalgrate016a"
@@ -5822,7 +5510,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "400968"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalmetalspeaker002a"
@@ -5833,7 +5520,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "400994"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalmetalgrate017a"
@@ -5844,7 +5530,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "401018"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalmetalgrate017a"
@@ -5855,7 +5540,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "401027"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalmetalgrate019a"
@@ -5866,7 +5550,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "401069"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalmetalgrate017a"
@@ -5877,7 +5560,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "401335"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalplaster001a"
@@ -5888,7 +5570,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "401341"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalplaster001a"
@@ -5899,7 +5580,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "401351"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/concretedebris001a"
@@ -5910,7 +5590,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "401444"
 				"angles" "0 0 0"
 				"LowPriority" "1"
 				"texture" "nmrih/decals/concretedebris001a"
@@ -5921,7 +5600,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "401917"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalplaster001a"
@@ -5932,7 +5610,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "401967"
 				"ajarangles" "0 0 0"
 				"angles" "0 0 0"
 				"axis" "2548.02 2600.99 702.28, 2548.02 2600.99 702.28"
@@ -5959,7 +5636,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "402017"
 				"ajarangles" "0 0 0"
 				"angles" "0 180 0"
 				"axis" "2547.98 2695.01 702.28, 2547.98 2695.01 702.28"
@@ -5981,7 +5657,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "403087"
 				"ajarangles" "0 0 0"
 				"angles" "0 0 0"
 				"axis" "2548.01 2125.99 702.28, 2548.01 2125.99 702.28"
@@ -6002,7 +5677,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "443418"
 				"_cone" "45"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -6024,7 +5698,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "443427"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -6045,7 +5718,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "443430"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -6065,7 +5737,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449509"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/bu_trash010"
@@ -6076,7 +5747,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449530"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/bu_trash011"
@@ -6087,7 +5757,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449599"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalstain011a"
@@ -6098,7 +5767,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449614"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalstain002a"
@@ -6109,7 +5777,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449629"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalstain011a"
@@ -6120,7 +5787,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449702"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/plaster018a"
@@ -6131,7 +5797,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449723"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/plaster018a"
@@ -6142,7 +5807,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449747"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/plaster018a"
@@ -6153,7 +5817,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449756"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/plaster018a"
@@ -6164,7 +5827,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449780"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/plaster015a"
@@ -6175,7 +5837,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449795"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/plaster015a"
@@ -6186,7 +5847,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449831"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/plaster015a"
@@ -6197,7 +5857,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449840"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/plaster014a"
@@ -6208,7 +5867,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449891"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/plaster016a"
@@ -6219,7 +5877,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449933"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/plaster020a"
@@ -6230,7 +5887,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449972"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/plaster015a"
@@ -6241,7 +5897,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "449999"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/stripe001a"
@@ -6252,7 +5907,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "450242"
 				"angles" "0 90 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -6284,7 +5938,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "450959"
 				"angles" "0 0 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -6317,7 +5970,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "451838"
 				"angles" "-60.5 90 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -6353,7 +6005,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452232"
 				"angles" "0 90 90"
 				"fademindist" "-1"
 				"fadescale" "1"
@@ -6373,7 +6024,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452252"
 				"spawnflags" "2"
 				"targetname" "obj4_templ"
 				"Template01" "obj4_crank"
@@ -6384,7 +6034,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452295"
 				"angles" "0 0 0"
 				"EntityTemplate" "obj4_lt"
 				"PostSpawnDirection" "0 0 0"
@@ -6400,7 +6049,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452310"
 				"targetname" "obj4_comp"
 				"origin" "2184 2096 657"
 				"connections"
@@ -6413,7 +6061,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452318"
 				"Case01" "5"
 				"Case02" "6"
 				"Case03" "7"
@@ -6435,7 +6082,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452410"
 				"max" "0"
 				"min" "0"
 				"StartDisabled" "0"
@@ -6456,7 +6102,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452509"
 				"spawnflags" "0"
 				"targetname" "obj4_tempcab"
 				"Template01" "obj4_cda"
@@ -6470,7 +6115,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452629"
 				"angles" "0 0 0"
 				"EntityTemplate" "obj4_tempcab"
 				"PostSpawnDirection" "0 0 0"
@@ -6486,7 +6130,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452631"
 				"angles" "0 90 0"
 				"EntityTemplate" "obj4_tempcab"
 				"PostSpawnDirection" "0 0 0"
@@ -6502,7 +6145,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452633"
 				"angles" "0 -90 0"
 				"EntityTemplate" "obj4_tempcab"
 				"PostSpawnDirection" "0 0 0"
@@ -6518,7 +6160,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452637"
 				"angles" "0 0 0"
 				"EntityTemplate" "obj4_tempcab"
 				"PostSpawnDirection" "0 0 0"
@@ -6534,7 +6175,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452641"
 				"angles" "0 -90 0"
 				"EntityTemplate" "obj4_tempcab"
 				"PostSpawnDirection" "0 0 0"
@@ -6550,7 +6190,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452643"
 				"angles" "0 180 0"
 				"EntityTemplate" "obj4_tempcab"
 				"PostSpawnDirection" "0 0 0"
@@ -6566,7 +6205,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452645"
 				"angles" "0 180 0"
 				"EntityTemplate" "obj4_tempcab"
 				"PostSpawnDirection" "0 0 0"
@@ -6582,7 +6220,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452803"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -6602,7 +6239,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452808"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -6623,7 +6259,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452811"
 				"angles" "-90 326 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -6658,7 +6293,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452815"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -6678,7 +6312,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452820"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -6699,7 +6332,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452827"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -6719,7 +6351,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452832"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -6740,7 +6371,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452839"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -6760,7 +6390,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452844"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -6781,7 +6410,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452851"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -6801,7 +6429,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452856"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -6822,7 +6449,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452863"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -6842,7 +6468,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452868"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -6863,7 +6488,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452875"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -6883,7 +6507,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452880"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -6904,7 +6527,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452887"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -6924,7 +6546,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452892"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -6945,7 +6566,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452899"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -6965,7 +6585,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452904"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -6986,7 +6605,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452911"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -7006,7 +6624,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452916"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -7027,7 +6644,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452934"
 				"angles" "0 109 90"
 				"origin" "1437.92 3318.07 223.2"
 				"spawnflags" "0"
@@ -7037,7 +6653,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "458124"
 				"targetname" "obj4_rel"
 				"origin" "2168 2096 657"
 				"connections"
@@ -7050,7 +6665,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "458441"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -7071,7 +6685,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "458444"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -7091,7 +6704,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "466308"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"angles" "0 30 -91.5"
@@ -7104,7 +6716,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "469547"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -7125,7 +6736,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "469559"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -7145,7 +6755,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "469614"
 				"angles" "-90 270 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -7177,7 +6786,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "469820"
 				"angles" "0 0 0"
 				"Dangling" "1"
 				"MoveSpeed" "64"
@@ -7197,7 +6805,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "481084"
 				"angles" "0 0 0"
 				"MoveSpeed" "64"
 				"NextKey" "obj5_rope1"
@@ -7215,7 +6822,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "481130"
 				"angles" "0 0 0"
 				"Dangling" "1"
 				"MoveSpeed" "64"
@@ -7236,7 +6842,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "481151"
 				"angles" "0 0 0"
 				"MoveSpeed" "64"
 				"NextKey" "obj5_rope2"
@@ -7254,7 +6859,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "481475"
 				"angles" "89.8455 180 90.0009"
 				"DisableBoneFollowers" "1"
 				"disablereceiveshadows" "0"
@@ -7288,7 +6892,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "481495"
 				"filtername" "obj4_crank"
 				"Negated" "Allow entities that match criteria"
 				"targetname" "obj4_filter"
@@ -7299,7 +6902,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "481654"
 				"angles" "0 0 0"
 				"orientationtype" "0"
 				"spawnflags" "0"
@@ -7321,7 +6923,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "481672"
 				"angles" "0 0 0"
 				"orientationtype" "0"
 				"spawnflags" "0"
@@ -7334,7 +6935,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "481772"
 				"health" "10"
 				"message" "ambient/materials/metal_stress1.wav"
 				"pitch" "100"
@@ -7349,7 +6949,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "481805"
 				"health" "10"
 				"message" "planck_exp2"
 				"pitch" "100"
@@ -7364,7 +6963,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "481909"
 				"angles" "0 0 0"
 				"GlowEntity10Color" "51 0 204"
 				"GlowEntity1Color" "64 0 0"
@@ -7402,7 +7000,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "482830"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/stripe001a"
@@ -7413,7 +7010,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "364026"
 				"spawnflags" "2"
 				"targetname" "obj3_template1"
 				"Template01" "obj3_be1"
@@ -7424,7 +7020,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "485971"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/bu_trash007"
 				"origin" "1937 2661 216"
@@ -7434,7 +7029,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "499216"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/ng_stain002a"
@@ -7445,7 +7039,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "517527"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -7465,7 +7058,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "517542"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -7485,7 +7077,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "518868"
 				"angles" "0 90 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -7517,7 +7108,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "518906"
 				"angles" "0 0 0"
 				"GlowEntity10Color" "51 0 204"
 				"GlowEntity1Color" "64 0 0"
@@ -7539,7 +7129,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "518911"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/stripe001a"
@@ -7550,7 +7139,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "519556"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/decalstain012a"
@@ -7561,7 +7149,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "520344"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "decals/plaster018a"
@@ -7572,7 +7159,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "520372"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -7592,7 +7178,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "520508"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -7613,7 +7198,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "520577"
 				"_cone" "45"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -7638,7 +7222,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "521314"
 				"angles" "90 0 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "0.75"
@@ -7655,7 +7238,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "521827"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -7675,7 +7257,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "521862"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/bu_stain002"
@@ -7686,7 +7267,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "526028"
 				"angles" "0 0 0"
 				"texture" "decals/decal_paintsplatterblue001"
 				"origin" "1853.54 3318 216"
@@ -7696,7 +7276,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "526055"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/ng_toxteth_graff01a"
 				"origin" "1946 3376 272.187"
@@ -7706,7 +7285,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "526064"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/ng_toxteth_graff01e"
 				"origin" "2027 3376 279.636"
@@ -7716,7 +7294,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "368261"
 				"angles" "0 0 0"
 				"texture" "decals/decalgraffiti050a"
 				"origin" "2632 2792 308.085"
@@ -7726,7 +7303,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "526109"
 				"angles" "0 0 0"
 				"texture" "decals/decalgraffiti050a"
 				"origin" "2100 3376 309"
@@ -7736,7 +7312,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "526124"
 				"angles" "0 0 0"
 				"texture" "decals/decalgraffiti018a"
 				"origin" "2103 3376 253"
@@ -7746,7 +7321,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "526154"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/b1"
 				"origin" "2027 2728 976.239"
@@ -7756,7 +7330,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "526163"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/b2"
 				"origin" "1728 2580 975"
@@ -7766,7 +7339,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "526181"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/b2"
 				"origin" "2432 2365 975"
@@ -7776,7 +7348,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "526738"
 				"health" "10"
 				"message" "ambient/energy/zap1.wav"
 				"pitch" "100"
@@ -7791,7 +7362,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "526827"
 				"attach1" "obj5_pb"
 				"hingeaxis" "1900 2310 648"
 				"maxSoundThreshold" "80"
@@ -7805,7 +7375,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "533723"
 				"angles" "0 90 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -7837,7 +7406,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "540097"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "2743.83 1853 906"
@@ -7861,7 +7429,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "540500"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "2809 1844 906"
@@ -7885,7 +7452,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "540701"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -7903,7 +7469,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "540719"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -7924,7 +7489,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "540808"
 				"origin" "2800 1876 948"
 			}
 		}
@@ -7932,7 +7496,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "540944"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "2227 1926 906"
@@ -7956,7 +7519,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "540986"
 				"angles" "0 0 0"
 				"default_spawn" "0"
 				"spawnflags" "1"
@@ -7968,7 +7530,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "540998"
 				"angles" "0 147 0"
 				"default_spawn" "0"
 				"spawnflags" "1"
@@ -7980,7 +7541,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "541006"
 				"angles" "0 180.5 0"
 				"default_spawn" "0"
 				"spawnflags" "1"
@@ -7992,7 +7552,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "541014"
 				"angles" "0 226 0"
 				"default_spawn" "0"
 				"spawnflags" "1"
@@ -8004,7 +7563,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "541020"
 				"angles" "0 283.5 0"
 				"default_spawn" "0"
 				"spawnflags" "1"
@@ -8016,7 +7574,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "541026"
 				"angles" "0 307.5 0"
 				"default_spawn" "0"
 				"spawnflags" "1"
@@ -8028,7 +7585,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "541032"
 				"angles" "0 2.50001 0"
 				"default_spawn" "0"
 				"spawnflags" "1"
@@ -8040,7 +7596,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "541077"
 				"ajarangles" "0 0 0"
 				"angles" "0 90 0"
 				"axis" "2593.01 1900.02 962, 2593.01 1900.02 962"
@@ -8069,7 +7624,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "542170"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -8090,7 +7644,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "542411"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -8110,7 +7663,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "542416"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -8134,7 +7686,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "542421"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -8155,7 +7706,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "542618"
 				"angles" "0 0 0"
 				"BasisNormal" "-1 -0 -0"
 				"BasisOrigin" "2904 1919 960"
@@ -8179,7 +7729,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "542654"
 				"angles" "0 0 0"
 				"BasisNormal" "-1 -0 -0"
 				"BasisOrigin" "2904 1982 960"
@@ -8203,7 +7752,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "545772"
 				"angles" "0 0 0"
 				"BasisNormal" "1 -0 0"
 				"BasisOrigin" "2320 2929 443.145"
@@ -8227,7 +7775,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "333529"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -8247,7 +7794,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "567091"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -8271,7 +7817,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "579430"
 				"angles" "0 0 0"
 				"BasisNormal" "0 -0 1"
 				"BasisOrigin" "2142 1429 894"
@@ -8295,7 +7840,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "583171"
 				"angles" "0 90 -73"
 				"fademindist" "-1"
 				"fadescale" "1"
@@ -8322,7 +7866,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "586669"
 				"angles" "0 0 0"
 				"BasisNormal" "0 -0 1"
 				"BasisOrigin" "2592 1625 894"
@@ -8346,7 +7889,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "586716"
 				"angles" "0 0 0"
 				"BasisNormal" "0 -0 1"
 				"BasisOrigin" "2592 1416 894"
@@ -8370,7 +7912,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "589491"
 				"angles" "0 0 0"
 				"BasisNormal" "0 1 -0"
 				"BasisOrigin" "2186 1285 939.01"
@@ -8394,7 +7935,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "611735"
 				"angles" "10 1 90"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -8410,7 +7950,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "611737"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -8432,7 +7971,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "611880"
 				"angles" "10 1 90"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -8448,7 +7986,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "611916"
 				"_light" "192 223 233 250"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -8461,7 +7998,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "611936"
 				"_fifty_percent_distance" "170"
 				"_hardfalloff" "445"
 				"_light" "255 139 70 70"
@@ -8477,7 +8013,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "612425"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -8497,7 +8032,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "615753"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -8518,7 +8052,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "615774"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -8539,7 +8072,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "615819"
 				"angles" "0 0 0"
 				"orientationtype" "0"
 				"spawnflags" "0"
@@ -8556,7 +8088,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "615923"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -8581,7 +8112,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "620306"
 				"sides" "99748 100834 141993 100976 100852 100145 100970 168980 169043 169005 169012 168962 168942 168957 168912 105149 104839 168883 168826 168788 168797 169402 169101 169166 169051 169181 169174 169116"
 				"origin" "2519 1559 975.055"
 			}
@@ -8590,7 +8120,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "623682"
 				"cubemapsize" "5"
 				"sides" "19608 19620 47164 47176 78583 19644 78595 78607 78619 19656 78631 125457 125469"
 				"origin" "266 378 218"
@@ -8600,7 +8129,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "623721"
 				"sides" ""
 				"origin" "174 389 234"
 			}
@@ -8609,7 +8137,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "671451"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -8630,7 +8157,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "671458"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -8650,7 +8176,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "671523"
 				"sides" ""
 				"origin" "-8 -232 44"
 			}
@@ -8659,7 +8184,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "675551"
 				"angles" "0 181 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -8673,7 +8197,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "675553"
 				"angles" "0 180 0"
 				"m_fMoveTo" "4"
 				"m_iszEntity" "glob_temp_sleeper_npc"
@@ -8692,7 +8215,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "675556"
 				"spawnflags" "0"
 				"targetname" "glob_temp_sleeper"
 				"Template01" "glob_temp_sleeper_npc"
@@ -8705,7 +8227,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "675571"
 				"spawnflags" "1"
 				"targetname" "glob_temp_sleeper_relay"
 				"origin" "-264 432 -24"
@@ -8720,7 +8241,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "675675"
 				"angles" "0 85 0"
 				"EntityTemplate" "glob_temp_sleeper"
 				"PostSpawnDirection" "0 0 0"
@@ -8741,7 +8261,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "679130"
 				"Case01" "1"
 				"Case02" "2"
 				"Case03" "3"
@@ -8761,7 +8280,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "679136"
 				"angles" "0 0 0"
 				"fademindist" "-1"
 				"fadescale" "1"
@@ -8777,7 +8295,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "679162"
 				"spawnflags" "0"
 				"targetname" "glob_temp_puppet"
 				"Template01" "glob_temp_puppet_rag"
@@ -8791,7 +8308,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "679174"
 				"spawnflags" "1"
 				"targetname" "glob_temp_puppet_relay"
 				"origin" "-328 440 -24"
@@ -8807,7 +8323,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "679196"
 				"angles" "0 0 0"
 				"EntityTemplate" "glob_temp_sleeper"
 				"parentname" "glob_temp_puppet_rag"
@@ -8830,7 +8345,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "679244"
 				"angles" "0 0 0"
 				"EntityTemplate" "glob_temp_puppet"
 				"PostSpawnDirection" "90 0 0"
@@ -8846,7 +8360,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "679413"
 				"angles" "0 130 0"
 				"EntityTemplate" "glob_temp_sleeper"
 				"PostSpawnDirection" "0 0 0"
@@ -8867,7 +8380,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "679423"
 				"angles" "0 45 0"
 				"EntityTemplate" "glob_temp_sleeper"
 				"PostSpawnDirection" "0 0 0"
@@ -8888,7 +8400,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "679447"
 				"angles" "0 0 0"
 				"EntityTemplate" "glob_temp_sleeper"
 				"PostSpawnDirection" "0 0 0"
@@ -8909,7 +8420,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683012"
 				"angles" "0 75 0"
 				"EntityTemplate" "glob_temp_sleeper"
 				"PostSpawnDirection" "0 0 0"
@@ -8930,7 +8440,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683224"
 				"spawnflags" "0"
 				"targetname" "glob_temp_burner"
 				"Template01" "glob_temp_burner_npc"
@@ -8942,7 +8451,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683226"
 				"spawnflags" "1"
 				"targetname" "glob_temp_burner_relay"
 				"origin" "1299 2249 80"
@@ -8959,7 +8467,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683228"
 				"angles" "0 271 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -8978,7 +8485,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683271"
 				"angles" "0 0 0"
 				"spawnflags" "0"
 				"targetname" "obj2_target"
@@ -8989,7 +8495,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683357"
 				"angles" "0 271 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -9004,7 +8509,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683359"
 				"spawnflags" "2"
 				"targetname" "obj3_temp1"
 				"Template01" "obj3_temp1_1"
@@ -9015,7 +8519,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683412"
 				"angles" "0 0 0"
 				"targetname" "obj3_target"
 				"origin" "2078.5 2670.99 225"
@@ -9025,7 +8528,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683427"
 				"max" "0"
 				"min" "0"
 				"StartDisabled" "1"
@@ -9044,7 +8546,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683487"
 				"angles" "0 91 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -9059,7 +8560,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683489"
 				"spawnflags" "0"
 				"targetname" "obj4_temp1"
 				"Template01" "obj4_temp1_1"
@@ -9070,7 +8570,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683517"
 				"angles" "0 0 0"
 				"spawnflags" "0"
 				"targetname" "obj4_target"
@@ -9081,7 +8580,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683664"
 				"spawnflags" "2"
 				"targetname" "obj5_temp_skid"
 				"Template01" "obj5_temp_skid_npc"
@@ -9094,7 +8592,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683666"
 				"spawnflags" "1"
 				"targetname" "obj5_temp_skid_relay"
 				"origin" "2256 1927 914"
@@ -9108,7 +8605,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683671"
 				"angles" "0 271 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -9122,7 +8618,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "683976"
 				"angles" "0 180 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -9158,7 +8653,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "684087"
 				"angles" "0 0 0"
 				"CriterionDistance" "2"
 				"CriterionVisibility" "1"
@@ -9178,7 +8672,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "684452"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -9198,7 +8691,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "684457"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -9219,7 +8711,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "708985"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -9239,7 +8730,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709079"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -9259,7 +8749,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709091"
 				"targetname" "b1_r"
 				"origin" "-107 -611 1357"
 			}
@@ -9268,7 +8757,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709093"
 				"targetname" "b2_r"
 				"origin" "-77 -611 1357"
 			}
@@ -9277,7 +8765,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709102"
 				"targetname" "b3_r"
 				"origin" "-47 -611 1357"
 			}
@@ -9286,7 +8773,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709111"
 				"targetname" "b4_r"
 				"origin" "-17 -611 1357"
 			}
@@ -9295,7 +8781,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709120"
 				"targetname" "b5_r"
 				"origin" "13 -611 1357"
 			}
@@ -9304,7 +8789,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709129"
 				"targetname" "b6_r"
 				"origin" "43 -611 1357"
 			}
@@ -9313,7 +8797,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709138"
 				"targetname" "b7_r"
 				"origin" "73 -611 1357"
 			}
@@ -9322,7 +8805,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709147"
 				"targetname" "b8_r"
 				"origin" "103 -611 1357"
 			}
@@ -9331,7 +8813,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709180"
 				"Branch01" "b1_r"
 				"Branch02" "b2_r"
 				"targetname" "b3_l"
@@ -9347,7 +8828,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709182"
 				"Branch01" "b1_r"
 				"Branch02" "b2_r"
 				"Branch03" "b3_r"
@@ -9364,7 +8844,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709184"
 				"Branch01" "b1_r"
 				"Branch02" "b2_r"
 				"Branch03" "b3_r"
@@ -9382,7 +8861,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709186"
 				"Branch01" "b1_r"
 				"Branch02" "b2_r"
 				"Branch03" "b3_r"
@@ -9401,7 +8879,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709188"
 				"Branch01" "b1_r"
 				"Branch02" "b2_r"
 				"Branch03" "b3_r"
@@ -9421,7 +8898,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709190"
 				"Branch01" "b1_r"
 				"targetname" "b2_l"
 				"origin" "-77 -627 1357"
@@ -9436,7 +8912,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709192"
 				"Branch01" "b2_r"
 				"Branch02" "b2_w"
 				"targetname" "b2_p"
@@ -9452,7 +8927,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709194"
 				"Branch01" "b3_r"
 				"Branch02" "b3_w"
 				"targetname" "b3_p"
@@ -9468,7 +8942,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709196"
 				"Branch01" "b4_r"
 				"Branch02" "b4_w"
 				"targetname" "b4_p"
@@ -9484,7 +8957,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709198"
 				"Branch01" "b5_r"
 				"Branch02" "b5_w"
 				"targetname" "b5_p"
@@ -9500,7 +8972,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709200"
 				"Branch01" "b6_r"
 				"Branch02" "b6_w"
 				"targetname" "b6_p"
@@ -9516,7 +8987,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709202"
 				"Branch01" "b7_r"
 				"Branch02" "b7_w"
 				"targetname" "b7_p"
@@ -9532,7 +9002,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709204"
 				"targetname" "b2_w"
 				"origin" "-77 -643 1357"
 			}
@@ -9541,7 +9010,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709206"
 				"targetname" "b3_w"
 				"origin" "-47 -643 1357"
 			}
@@ -9550,7 +9018,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709208"
 				"targetname" "b4_w"
 				"origin" "-17 -643 1357"
 			}
@@ -9559,7 +9026,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709210"
 				"targetname" "b5_w"
 				"origin" "13 -643 1357"
 			}
@@ -9568,7 +9034,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709212"
 				"targetname" "b6_w"
 				"origin" "43 -643 1357"
 			}
@@ -9577,7 +9042,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709214"
 				"targetname" "b7_w"
 				"origin" "73 -643 1357"
 			}
@@ -9586,7 +9050,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709216"
 				"Branch01" "b1_r"
 				"Branch02" "b2_r"
 				"Branch03" "b3_r"
@@ -9614,7 +9077,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709218"
 				"angles" "0 0 0"
 				"GlowEntity10Color" "51 0 204"
 				"GlowEntity1Color" "51 0 204"
@@ -9652,7 +9114,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709397"
 				"angles" "0 0 0"
 				"texture" "decals/decalbrick002d"
 				"origin" "-5.782 -560 1417.25"
@@ -9662,7 +9123,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709440"
 				"angles" "0 0 0"
 				"spawnflags" "0"
 				"targetname" "target"
@@ -9673,7 +9133,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709443"
 				"angles" "0 181 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -9694,7 +9153,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709445"
 				"spawnflags" "0"
 				"targetname" "t_shambler"
 				"Template01" "obj0_shambler"
@@ -9706,7 +9164,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709451"
 				"min" "1"
 				"targetname" "spawn_counter"
 				"origin" "264 -880 1361"
@@ -9720,7 +9177,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709453"
 				"spawnflags" "2"
 				"targetname" "spawn_logic"
 				"origin" "216 -896 1361"
@@ -9736,7 +9192,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709455"
 				"targetname" "spawn_block"
 				"origin" "237.948 -858.965 1361"
 				"connections"
@@ -9751,7 +9206,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709457"
 				"spawnflags" "2"
 				"targetname" "spawn_logic1"
 				"origin" "216 -920 1361"
@@ -9768,7 +9222,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709459"
 				"max" "20"
 				"min" "1"
 				"startvalue" "1"
@@ -9786,7 +9239,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709461"
 				"angles" "0 0 0"
 				"EntityTemplate" "t_shambler"
 				"parentname" "asd"
@@ -9803,7 +9255,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709470"
 				"angles" "0 180 -174"
 				"origin" "114.889 -904.938 1408"
 			}
@@ -9812,7 +9263,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709472"
 				"angles" "0 180 9"
 				"origin" "115 -905 1417"
 			}
@@ -9821,7 +9271,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709490"
 				"angles" "-85 180 -90"
 				"origin" "-109.44 -871 1368.03"
 				"spawnflags" "1"
@@ -9832,7 +9281,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709493"
 				"angles" "85 0 -89.9999"
 				"origin" "-111.35 -861 1383.12"
 				"spawnflags" "1"
@@ -9843,7 +9291,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709496"
 				"angles" "-85 180 -90"
 				"origin" "-109.34 -848 1369.24"
 				"spawnflags" "1"
@@ -9854,7 +9301,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709499"
 				"angles" "77.4735 66.81 -23.6933"
 				"origin" "-111 -836.99 1381"
 				"spawnflags" "1"
@@ -9865,7 +9311,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709502"
 				"angles" "-8.46742 269.254 5.05525"
 				"origin" "-110.76 -839 1394.21"
 				"spawnflags" "1"
@@ -9876,7 +9321,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709505"
 				"angles" "10.9576 89.029 -5.0931"
 				"origin" "-112.48 -863 1405.1"
 				"spawnflags" "1"
@@ -9887,7 +9331,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709508"
 				"angles" "10.4596 89.075 -5.08471"
 				"origin" "-113.21 -861.95 1413.41"
 				"spawnflags" "1"
@@ -9898,7 +9341,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709511"
 				"angles" "-4.48284 269.607 5.01538"
 				"origin" "-113.13 -837.99 1416.49"
 				"spawnflags" "1"
@@ -9909,7 +9351,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709516"
 				"angles" "-28.4574 268.372 3.41276"
 				"origin" "-109.39 -905 1367.96"
 				"spawnflags" "1"
@@ -9920,7 +9361,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709519"
 				"angles" "-15.4782 90.8315 -3.11301"
 				"origin" "-110.17 -931 1390.95"
 				"spawnflags" "1"
@@ -9931,7 +9371,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709522"
 				"angles" "0 0 0"
 				"origin" "-110.57 -897 1389.92"
 			}
@@ -9940,7 +9379,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709525"
 				"angles" "-27.4591 91.5606 -3.38131"
 				"origin" "-109.35 -927 1367.96"
 				"spawnflags" "1"
@@ -9951,7 +9389,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709528"
 				"angles" "-23.965 91.3348 -3.28331"
 				"origin" "-111.7 -908.01 1408.89"
 				"spawnflags" "1"
@@ -9962,7 +9399,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709531"
 				"angles" "-23.965 91.3348 -3.28331"
 				"origin" "-112.38 -911.01 1421.87"
 				"spawnflags" "1"
@@ -9973,7 +9409,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709534"
 				"angles" "86.9587 350.533 80.5463"
 				"origin" "-113.1 -937.01 1436.72"
 				"spawnflags" "1"
@@ -9984,7 +9419,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709537"
 				"angles" "-22.9667 91.2726 -3.25854"
 				"origin" "-112.72 -914 1436.88"
 				"spawnflags" "1"
@@ -9995,7 +9429,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709544"
 				"angles" "0 270.5 90"
 				"origin" "-56.18 -921.16 1381.42"
 				"spawnflags" "1"
@@ -10005,7 +9438,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709547"
 				"angles" "0 39.5 90"
 				"origin" "-49 -947 1379.26"
 				"spawnflags" "1"
@@ -10015,7 +9447,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709553"
 				"angles" "0 166.5 90"
 				"origin" "-63.18 -927.13 1379.26"
 				"spawnflags" "1"
@@ -10025,7 +9456,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709556"
 				"angles" "0 270.5 90"
 				"origin" "-74.57 -926.27 1381.42"
 				"spawnflags" "1"
@@ -10035,7 +9465,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709559"
 				"angles" "0 355.5 90"
 				"origin" "-85.06 -940.32 1379.6"
 				"spawnflags" "1"
@@ -10045,7 +9474,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709562"
 				"angles" "0 358.5 90"
 				"origin" "-89.14 -932.35 1379.26"
 				"spawnflags" "1"
@@ -10055,7 +9483,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709565"
 				"angles" "0 270.5 90"
 				"origin" "-97 -929 1379.6"
 				"spawnflags" "1"
@@ -10065,7 +9492,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709568"
 				"angles" "0 0 0"
 				"fademindist" "-1"
 				"fadescale" "1"
@@ -10089,7 +9515,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709572"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"ammobox_12gauge" "15"
@@ -10119,7 +9544,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709574"
 				"spawnflags" "1"
 				"targetname" "ammo_r"
 				"origin" "32 -880 1357"
@@ -10135,7 +9559,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709576"
 				"spawnflags" "0"
 				"targetname" "ammo_t"
 				"Template01" "ammo_e"
@@ -10147,7 +9570,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709578"
 				"angles" "0 0 0"
 				"EntityTemplate" "ammo_t"
 				"parentname" "abox_prop"
@@ -10169,7 +9591,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709580"
 				"spawnflags" "0"
 				"targetname" "abox_t"
 				"Template01" "abox_prop"
@@ -10182,7 +9603,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709594"
 				"angles" "0 0 0"
 				"damagetoenablemotion" "0"
 				"Damagetype" "0"
@@ -10220,7 +9640,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709598"
 				"spawnflags" "1"
 				"targetname" "abox_relay"
 				"origin" "-10.458 -892.474 1357"
@@ -10234,7 +9653,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709600"
 				"angles" "0 334.5 89"
 				"origin" "-75.01 -927.8 1380.01"
 				"spawnflags" "0"
@@ -10244,7 +9662,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709606"
 				"angles" "0 143.5 89"
 				"origin" "-51.99 -937 1380.01"
 				"spawnflags" "0"
@@ -10254,7 +9671,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709633"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"ammobox_board" "100"
@@ -10269,7 +9685,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709641"
 				"angles" "0 0 0"
 				"health" "400"
 				"minangle" "360"
@@ -10289,7 +9704,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709643"
 				"angles" "0 0 0"
 				"health" "400"
 				"minangle" "360"
@@ -10308,7 +9722,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710077"
 				"Case01" "1"
 				"Case02" "2"
 				"Case03" "3"
@@ -10330,7 +9743,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710079"
 				"spawnflags" "0"
 				"targetname" "t_runner"
 				"Template01" "obj0_runner"
@@ -10341,7 +9753,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710081"
 				"angles" "0 181 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -10361,7 +9772,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710085"
 				"_cone" "90"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -10386,7 +9796,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710097"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -10405,7 +9814,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710100"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -10425,7 +9833,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710105"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -10445,7 +9852,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710110"
 				"angles" "0 11.5 0"
 				"origin" "-132 -954 1353.72"
 				"spawnflags" "0"
@@ -10456,7 +9862,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710113"
 				"angles" "-43.4814 309.423 87.9325"
 				"origin" "-145 -948 1349"
 				"spawnflags" "0"
@@ -10467,7 +9872,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710128"
 				"angles" "0 180 -178"
 				"origin" "115 -720.938 1409"
 			}
@@ -10476,7 +9880,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710133"
 				"angles" "0 180 4.00002"
 				"origin" "115 -720.938 1417"
 			}
@@ -10485,7 +9888,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710139"
 				"angles" "0 224 0"
 				"origin" "-144.73 -954.66 1352"
 				"spawnflags" "0"
@@ -10496,7 +9898,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710146"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -10516,7 +9917,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710151"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -10535,7 +9935,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710154"
 				"angles" "0 269 0"
 				"origin" "-134.01 -937 1353.72"
 				"targetname" "ms"
@@ -10545,7 +9944,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710157"
 				"angles" "0.999994 270 90"
 				"origin" "-131.78 -922.27 1348.71"
 				"targetname" "ms"
@@ -10555,7 +9953,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710160"
 				"angles" "0.999994 337 90"
 				"origin" "-137.99 -923.99 1348.71"
 				"targetname" "ms"
@@ -10565,7 +9962,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710175"
 				"angles" "0 0 0"
 				"farz" "-1"
 				"fogcolor" "22 28 25"
@@ -10585,7 +9981,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710335"
 				"spawnflags" "2"
 				"targetname" "respawn_timer"
 				"origin" "-64.046 -1049 1360"
@@ -10600,7 +9995,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710339"
 				"max" "4"
 				"min" "0"
 				"targetname" "player_counter"
@@ -10616,7 +10010,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710539"
 				"_cone" "90"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -10641,7 +10034,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710544"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -10661,7 +10053,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710549"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -10680,7 +10071,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710556"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/bu_stain002"
 				"origin" "-205 -608 1387"
@@ -10690,7 +10080,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710559"
 				"angles" "0 0 0"
 				"BasisNormal" "-1 0 0"
 				"BasisOrigin" "-205 -760.5 1511"
@@ -10714,7 +10103,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710593"
 				"angles" "0 270 0"
 				"EntityTemplate" "t_shambler1"
 				"PostSpawnDirection" "0 0 0"
@@ -10730,7 +10118,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710595"
 				"angles" "0 180 0"
 				"EntityTemplate" "t_shambler1"
 				"PostSpawnDirection" "0 0 0"
@@ -10746,7 +10133,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710597"
 				"angles" "0 90 0"
 				"EntityTemplate" "t_shambler1"
 				"PostSpawnDirection" "0 0 0"
@@ -10762,7 +10148,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710599"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/bu_trash009"
 				"origin" "-341 -625 1340"
@@ -10772,7 +10157,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710614"
 				"angles" "0 88.5 4.00002"
 				"origin" "-369 -710 1396.42"
 			}
@@ -10781,7 +10165,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710616"
 				"angles" "0.0130885 89.4999 -176.5"
 				"origin" "-370 -710 1388"
 			}
@@ -10790,7 +10173,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710618"
 				"angles" "0 163 4.00002"
 				"origin" "-428.733 -656.036 1396.42"
 			}
@@ -10799,7 +10181,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710620"
 				"angles" "0.0130885 164 -176.5"
 				"origin" "-428 -656 1388"
 			}
@@ -10808,7 +10189,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710622"
 				"targetname" "spawn_block1"
 				"origin" "-642 -417 1348"
 				"connections"
@@ -10823,7 +10203,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710624"
 				"min" "1"
 				"targetname" "spawn_counter1"
 				"origin" "-500.05 -647.486 1348"
@@ -10837,7 +10216,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710626"
 				"Case01" "1"
 				"Case02" "2"
 				"Case03" "3"
@@ -10855,7 +10233,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710628"
 				"StartDisabled" "1"
 				"targetname" "zehardenin"
 				"origin" "187 -829 1361"
@@ -10869,7 +10246,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710630"
 				"spawnflags" "0"
 				"targetname" "t_runner1"
 				"Template01" "obj0_runner1"
@@ -10880,7 +10256,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710632"
 				"angles" "0 181 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -10900,7 +10275,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710634"
 				"spawnflags" "0"
 				"targetname" "t_shambler1"
 				"Template01" "obj0_shambler1"
@@ -10912,7 +10286,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710636"
 				"angles" "0 181 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -10932,7 +10305,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710638"
 				"Case01" "1"
 				"Case02" "2"
 				"Case03" "3"
@@ -10954,7 +10326,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710652"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -10974,7 +10345,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710657"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -10993,7 +10363,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710660"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -11013,7 +10382,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710669"
 				"sides" ""
 				"origin" "29 -791.753 1410"
 			}
@@ -11022,7 +10390,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710685"
 				"angles" "0 0 0"
 				"BasisNormal" "0 -1 0"
 				"BasisOrigin" "-144 -581 1385.62"
@@ -11046,7 +10413,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "733723"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2"
@@ -11067,7 +10433,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "733730"
 				"angles" "-43.5 45 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -11083,7 +10448,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "733732"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -11108,7 +10472,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "733812"
 				"_light" "211 251 254 100"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -11120,7 +10483,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "733867"
 				"_light" "218 192 167 300"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -11132,7 +10494,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "733894"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -11153,7 +10514,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "733901"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -11173,7 +10533,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "734076"
 				"_light" "218 192 167 150"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -11185,7 +10544,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "739485"
 				"angles" "0 90 0"
 				"fademindist" "-1"
 				"fadescale" "1"
@@ -11206,7 +10564,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "760629"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -11227,7 +10584,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "760636"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -11247,7 +10603,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "760669"
 				"angles" "-15 216 -180"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -11263,7 +10618,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "760671"
 				"_cone" "85"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -11287,7 +10641,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "760676"
 				"_light" "177 188 224 15"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "0.35"
@@ -11299,7 +10652,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "761111"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -11319,7 +10671,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "762017"
 				"sides" ""
 				"origin" "-141 -380 776.03"
 			}
@@ -11328,7 +10679,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "762026"
 				"sides" ""
 				"origin" "-371 11 662.699"
 			}
@@ -11337,7 +10687,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "762046"
 				"sides" ""
 				"origin" "-264 -494.506 40"
 			}
@@ -11346,7 +10695,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "761107"
 				"angles" "9.65232 86.3746 83.4126"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -11362,7 +10710,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "761102"
 				"_cone" "85"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -11384,7 +10731,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "773461"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -11404,7 +10750,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "773617"
 				"angles" "0 270 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -11440,7 +10785,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "773769"
 				"angles" "0 270 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -11476,7 +10820,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "773781"
 				"angles" "0 270 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -11512,7 +10855,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "773789"
 				"angles" "0 270 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -11544,7 +10886,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "773817"
 				"angles" "0 270 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -11580,7 +10921,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "773845"
 				"angles" "0 270 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -11616,7 +10956,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "779314"
 				"angles" "0 270 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -11652,7 +10991,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "779322"
 				"angles" "0 270 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -11688,7 +11026,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "780260"
 				"angles" "0 270 0"
 				"fademindist" "-1"
 				"fadescale" "1"
@@ -11708,7 +11045,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "780487"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -11728,7 +11064,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "780579"
 				"texture" "decals/debris_concrete001a"
 				"origin" "-142.378 -630.674 1348"
 			}
@@ -11737,7 +11072,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "813728"
 				"angles" "0 17.5 0"
 				"BasisNormal" "0.0948984 0.0299213 -0.995037"
 				"BasisOrigin" "-536 808 487"
@@ -11761,7 +11095,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "815380"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -11780,7 +11113,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "815387"
 				"_fifty_percent_distance" "170"
 				"_hardfalloff" "445"
 				"_light" "228 217 175 20"
@@ -11795,7 +11127,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "828661"
 				"angles" "0 0 0"
 				"BasisNormal" "0.707107 0.707107 0"
 				"BasisOrigin" "985.09 513.533 415"
@@ -11819,7 +11150,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "830270"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -11838,7 +11168,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "830273"
 				"_fifty_percent_distance" "170"
 				"_hardfalloff" "445"
 				"_light" "228 217 175 200"
@@ -11853,7 +11182,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "836536"
 				"angles" "-90 0 0"
 				"effect_name" "water_splash_leakypipe_silo"
 				"start_active" "1"
@@ -11864,7 +11192,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "837389"
 				"_cone" "90"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -11889,7 +11216,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "848712"
 				"angles" "27.55 40.0695 97.8829"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -11905,7 +11231,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "848714"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -11927,7 +11252,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "848719"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -11947,7 +11271,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "859949"
 				"_light" "166 222 238 1000"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "0.35"
@@ -11959,7 +11282,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "859990"
 				"sides" ""
 				"origin" "1759 368.43 219"
 			}
@@ -11968,7 +11290,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "860127"
 				"angles" "0 185.5 0"
 				"origin" "-162 -24.72 21.78"
 			}
@@ -11977,7 +11298,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "860133"
 				"angles" "0 272.5 0"
 				"origin" "-159 -15 22"
 			}
@@ -11986,7 +11306,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "860206"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -12004,7 +11323,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "860407"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -12025,7 +11343,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "862806"
 				"angles" "0 270 -170"
 				"origin" "-314.01 -264 74.6"
 				"spawnflags" "1"
@@ -12035,7 +11352,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "863109"
 				"angles" "90 0 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -12051,7 +11367,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "863121"
 				"angles" "90 0 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -12067,7 +11382,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "863128"
 				"_cone" "45"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -12090,7 +11404,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "863188"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -12110,7 +11423,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "863446"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -12129,7 +11441,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "863453"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -12149,7 +11460,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "863499"
 				"angles" "0 339.5 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "-64 -315 -2.42281"
@@ -12173,7 +11483,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "864159"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -12193,7 +11502,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "864840"
 				"_cone" "45"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -12215,7 +11523,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "864845"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -12235,7 +11542,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "864938"
 				"angles" "90 0 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -12251,7 +11557,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "865204"
 				"angles" "90 0 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -12267,7 +11572,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "871070"
 				"angles" "0 0 0"
 				"BasisNormal" "-0 -1 -0"
 				"BasisOrigin" "409 888 359.5"
@@ -12292,7 +11596,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "871770"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "505 974 168"
@@ -12316,7 +11619,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "872679"
 				"angles" "0 0 0"
 				"BasisNormal" "-0 -1 -0"
 				"BasisOrigin" "416.374 888 358.606"
@@ -12341,7 +11643,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "879344"
 				"_light" "228 217 175 150"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "0.35"
@@ -12353,7 +11654,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "879856"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -12372,7 +11672,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "879859"
 				"_fifty_percent_distance" "170"
 				"_hardfalloff" "445"
 				"_light" "228 217 175 200"
@@ -12387,7 +11686,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "880060"
 				"angles" "0 0 0"
 				"farz" "-1"
 				"fogcolor" "22 28 25"
@@ -12407,7 +11705,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "886160"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -12426,7 +11723,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "911096"
 				"angles" "17.3956 320.032 19.6316"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -12457,7 +11753,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "911444"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -12477,7 +11772,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "69742"
 				"angles" "0 90 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -12512,7 +11806,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "923414"
 				"angles" "0 0 0"
 				"CriterionDistance" "2"
 				"CriterionVisibility" "2"
@@ -12532,7 +11825,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "973711"
 				"angles" "0 90 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3864 1457.5 704"
@@ -12556,7 +11848,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "973753"
 				"angles" "0 90 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "2737.5 1520 894"
@@ -12580,7 +11871,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "973819"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "2424 1520 894"
@@ -12604,7 +11894,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "973849"
 				"angles" "0 90 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3091 1637 894"
@@ -12628,7 +11917,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "973887"
 				"angles" "0 180 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3246 1765 894"
@@ -12652,7 +11940,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "973957"
 				"angles" "0 90 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3646 1457.5 704"
@@ -12676,7 +11963,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "974553"
 				"angles" "0 90 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3396 1996 894"
@@ -12700,7 +11986,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "976068"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3756 1064 696"
@@ -12724,7 +12009,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "976350"
 				"angles" "0 180 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3390 1124.12 894"
@@ -12748,7 +12032,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "983246"
 				"angles" "0 90 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3719 771.5 696"
@@ -12772,7 +12055,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1003426"
 				"angles" "0 270 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -12809,7 +12091,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1003524"
 				"angles" "0 0 0"
 				"BasisNormal" "0 1 -0"
 				"BasisOrigin" "4184 1152 754.5"
@@ -12833,7 +12114,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1004856"
 				"angles" "21 291.5 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -12849,7 +12129,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1004858"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -12874,7 +12153,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1005061"
 				"angles" "0 90 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3888 944 696"
@@ -12898,7 +12176,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1005113"
 				"angles" "0 90 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3632 944 696"
@@ -12922,7 +12199,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1005233"
 				"angles" "0 270 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3576 548 696"
@@ -12946,7 +12222,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1005406"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3756 1114 696"
@@ -12970,7 +12245,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1014443"
 				"angles" "13.7208 260.237 -5.8857"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -13002,7 +12276,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1014495"
 				"angles" "-39.3947 272.108 -91.7945"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -13034,7 +12307,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1022509"
 				"angles" "0 270 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3576 124 728"
@@ -13058,7 +12330,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1031717"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/sp_graffiti004a"
 				"origin" "4557 1144 858"
@@ -13068,7 +12339,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1031729"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/sp_graffiti001a"
@@ -13079,7 +12349,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1031747"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/sp_graffiti002a"
 				"origin" "4442 1144 772"
@@ -13089,7 +12358,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1074169"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/sp_graffiti004a"
 				"origin" "2524 367 848.92"
@@ -13099,7 +12367,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1081472"
 				"angles" "0 270 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3320.5 -292 760"
@@ -13123,7 +12390,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1095700"
 				"angles" "0 59 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -13156,7 +12422,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1103418"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/sp_graffiti002a"
 				"origin" "2783 -754 882"
@@ -13166,7 +12431,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1103430"
 				"angles" "0 0 0"
 				"texture" "nmrih/decals/sp_graffiti004a"
 				"origin" "3261.86 -659 812.234"
@@ -13176,7 +12440,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1163471"
 				"angles" "0 180 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3866 -905 770"
@@ -13200,7 +12463,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1163599"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3866 -1201 770"
@@ -13224,7 +12486,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1165369"
 				"angles" "0 209.5 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -13257,7 +12518,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1166882"
 				"ajarangles" "0 0 0"
 				"angles" "0 0 0"
 				"axis" "4276.02 -1072.01 838, 4276.02 -1072.01 838"
@@ -13278,7 +12538,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1173561"
 				"angles" "0 0 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -13311,7 +12570,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1235248"
 				"_light" "231 152 65 500"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -13325,7 +12583,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1244184"
 				"angles" "-14.597 3.03719 -11.8891"
 				"BasisNormal" "-0.333807 0.187932 0.923718"
 				"BasisOrigin" "4430.81 728.983 704"
@@ -13350,7 +12607,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1244364"
 				"angles" "20.5 0 0"
 				"BasisNormal" "0.350207 0 0.936672"
 				"BasisOrigin" "4488 758 696"
@@ -13374,7 +12630,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1244422"
 				"angles" "0 0 0"
 				"BasisNormal" "0 -0 1"
 				"BasisOrigin" "4284 757 696"
@@ -13399,7 +12654,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1244583"
 				"_light" "231 152 65 200"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -13413,7 +12667,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1244593"
 				"_light" "231 152 65 200"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -13427,7 +12680,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1244603"
 				"_light" "231 152 65 200"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -13441,7 +12693,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1244628"
 				"_light" "231 152 65 200"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -13455,7 +12706,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1244648"
 				"_light" "231 152 65 200"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -13469,7 +12719,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1245024"
 				"_light" "231 152 65 400"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -13483,7 +12732,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1248257"
 				"_cone" "45"
 				"_exponent" "1"
 				"_inner_cone" "30"
@@ -13500,7 +12748,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1248326"
 				"angles" "79.5 0 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -13516,7 +12763,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1248340"
 				"angles" "79.5 0 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -13532,7 +12778,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1248342"
 				"_cone" "45"
 				"_exponent" "1"
 				"_inner_cone" "30"
@@ -13549,7 +12794,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1248373"
 				"_cone" "45"
 				"_exponent" "1"
 				"_inner_cone" "30"
@@ -13567,7 +12811,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1248378"
 				"angles" "25.5 0 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -13583,7 +12826,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1248505"
 				"_cone" "45"
 				"_exponent" "1"
 				"_inner_cone" "30"
@@ -13601,7 +12843,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1248510"
 				"angles" "25.5 75.5 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -13617,7 +12858,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1248582"
 				"angles" "-7.2663 72.8657 -75.6527"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -13633,7 +12873,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1248584"
 				"_cone" "45"
 				"_exponent" "1"
 				"_inner_cone" "30"
@@ -13651,7 +12890,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1248672"
 				"_light" "190 90 24 150"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -13665,7 +12903,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1248723"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -13690,7 +12927,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1248758"
 				"_light" "156 188 201 50"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -13704,7 +12940,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1249453"
 				"_light" "231 152 65 200"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -13718,7 +12953,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1249493"
 				"_light" "231 152 65 400"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -13732,7 +12966,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1249570"
 				"_light" "224 251 252 800"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -13746,7 +12979,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1249662"
 				"angles" "0 0 5"
 				"BasisNormal" "0 -0.0871557 0.996195"
 				"BasisOrigin" "4024 558.262 696"
@@ -13771,7 +13003,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1249768"
 				"angles" "0 1 0"
 				"BasisNormal" "0.0174524 -0.999848 0"
 				"BasisOrigin" "3060 1144 794"
@@ -13795,7 +13026,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1250854"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -13818,7 +13048,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1250859"
 				"angles" "5.13374 70.3609 12.806"
 				"disablereceiveshadows" "0"
 				"HDRColorScale" "1.0"
@@ -13836,7 +13065,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1250867"
 				"angles" "5.13374 70.3609 12.806"
 				"disablereceiveshadows" "0"
 				"HDRColorScale" "1.0"
@@ -13854,7 +13082,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1250869"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -13879,7 +13106,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1251378"
 				"_light" "255 98 98 200"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -13893,7 +13119,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1251612"
 				"_light" "224 251 252 800"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -13907,7 +13132,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1269863"
 				"angles" "0 90 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "2716 753 696"
@@ -13931,7 +13155,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1277976"
 				"angles" "0 180 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -13963,7 +13186,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1286575"
 				"angles" "0 179.5 0"
 				"effect_name" "door_fire_01"
 				"parentname" "obj6_gt"
@@ -13976,7 +13198,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1286900"
 				"angles" "0 179.5 0"
 				"effect_name" "door_fire_01"
 				"parentname" "obj6_gt"
@@ -13989,7 +13210,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1287618"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -14010,7 +13230,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1287621"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -14029,7 +13248,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1287699"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -14054,7 +13272,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1287999"
 				"_light" "170 170 170 50"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -14069,7 +13286,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1288044"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -14094,7 +13310,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1288243"
 				"_light" "231 152 65 400"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -14108,7 +13323,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1297060"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -14129,7 +13343,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1297063"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -14153,7 +13366,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1297395"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3106 968 894"
@@ -14177,7 +13389,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1297476"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3107 1992 894"
@@ -14201,7 +13412,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1305557"
 				"angles" "0 0 12"
 				"fademindist" "-1"
 				"fadescale" "1"
@@ -14228,7 +13438,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1305970"
 				"angles" "0 90 -9"
 				"DisableBoneFollowers" "0"
 				"disableshadows" "1"
@@ -14255,7 +13464,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1306159"
 				"health" "10"
 				"message" "doors/heavy_metal_stop1.wav"
 				"pitch" "100"
@@ -14270,7 +13478,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1306251"
 				"_fifty_percent_distance" "170"
 				"_hardfalloff" "445"
 				"_light" "175 224 226 140"
@@ -14286,7 +13493,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1306256"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -14307,7 +13513,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1306357"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -14328,7 +13533,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1306360"
 				"_fifty_percent_distance" "170"
 				"_hardfalloff" "445"
 				"_light" "175 224 226 140"
@@ -14344,7 +13548,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1307305"
 				"angles" "0 0 0"
 				"GlowEntity10Color" "51 0 204"
 				"GlowEntity1Color" "64 0 0"
@@ -14365,7 +13568,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1307361"
 				"angles" "0 0 180"
 				"BasisNormal" "0 8.74228e-008 -1"
 				"BasisOrigin" "3800 768 848.81"
@@ -14391,7 +13593,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1307539"
 				"spawnflags" "3"
 				"targetname" "ms_t"
 				"Template01" "ms"
@@ -14402,7 +13603,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1307557"
 				"angles" "0 0 0"
 				"EntityTemplate" "ms_t"
 				"PostSpawnDirection" "0 0 0"
@@ -14416,7 +13616,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1307575"
 				"angles" "0 0 0"
 				"GlowEntity10Color" "51 0 204"
 				"GlowEntity1Color" "64 0 0"
@@ -14437,7 +13636,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1324305"
 				"angles" "-37.9145 4.49361 -2.76478"
 				"BasisNormal" "-0.615662 0 0.788011"
 				"BasisOrigin" "3470 2212 910"
@@ -14461,7 +13659,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1324739"
 				"angles" "-39 0 0"
 				"BasisNormal" "-0.62932 0 0.777146"
 				"BasisOrigin" "3351 2162 911"
@@ -14485,7 +13682,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1333592"
 				"angles" "0 0 0"
 				"BasisNormal" "1 -0 0"
 				"BasisOrigin" "2961 1199.75 962"
@@ -14509,7 +13705,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1333677"
 				"_fifty_percent_distance" "170"
 				"_hardfalloff" "445"
 				"_light" "175 224 226 140"
@@ -14525,7 +13720,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1333682"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -14546,7 +13740,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1333789"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -14567,7 +13760,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1333792"
 				"_fifty_percent_distance" "170"
 				"_hardfalloff" "445"
 				"_light" "175 224 226 140"
@@ -14583,7 +13775,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1352753"
 				"_light" "207 192 107 100"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -14596,7 +13787,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1352773"
 				"_cone" "70"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -14621,7 +13811,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1352870"
 				"_cone" "70"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -14646,7 +13835,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1352878"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -14667,7 +13855,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1352896"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -14688,7 +13875,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1361456"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -14708,7 +13894,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1361461"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -14732,7 +13917,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1361466"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -14753,7 +13937,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1361581"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -14774,7 +13957,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1361584"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -14798,7 +13980,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1361589"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -14818,7 +13999,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1362349"
 				"_light" "255 98 98 200"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -14832,7 +14012,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1371061"
 				"angles" "0 0 0"
 				"BasisNormal" "1 0 0"
 				"BasisOrigin" "4280 -1050.58 903"
@@ -14856,7 +14035,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1371073"
 				"angles" "0 0 0"
 				"BasisNormal" "1 0 0"
 				"BasisOrigin" "4280 -1264 849.779"
@@ -14880,7 +14058,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1380673"
 				"angles" "47.5 4 0"
 				"BasisNormal" "0.735481 0.0514298 0.67559"
 				"BasisOrigin" "2325 -730 768"
@@ -14904,7 +14081,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1380731"
 				"_light" "231 152 65 500"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -14918,7 +14094,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1380832"
 				"angles" "79.5 0 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -14934,7 +14109,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1380834"
 				"_cone" "45"
 				"_exponent" "1"
 				"_inner_cone" "30"
@@ -14951,7 +14125,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1391310"
 				"_light" "175 224 226 200"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -14964,7 +14137,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1408994"
 				"angles" "0 0 0"
 				"Magnitude" "8"
 				"spawnflags" "0"
@@ -14977,7 +14149,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1409393"
 				"forcestate" "0"
 				"goalent" "obj4_target1"
 				"graball" "1"
@@ -14993,7 +14164,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1409760"
 				"spawnflags" "2"
 				"targetname" "obj3_temp2"
 				"Template01" "obj3_temp1_2"
@@ -15004,7 +14174,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1409762"
 				"angles" "0 181 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -15019,7 +14188,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1409776"
 				"angles" "0 0 0"
 				"targetname" "obj4_target1"
 				"origin" "2108 2639 657"
@@ -15029,7 +14197,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1418545"
 				"angles" "0 150.5 0"
 				"damagetoenablemotion" "0"
 				"Damagetype" "0"
@@ -15059,7 +14226,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1419338"
 				"targetname" "obj3_ca"
 				"origin" "1527 2491 250"
 				"connections"
@@ -15090,7 +14256,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1437412"
 				"filtername" "obj1a_k"
 				"Negated" "Allow entities that match criteria"
 				"targetname" "obj1a_filter"
@@ -15107,7 +14272,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1437620"
 				"angles" "-90 0 0"
 				"origin" "50 1072 167"
 			}
@@ -15116,7 +14280,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1437632"
 				"angles" "0.999997 270 90"
 				"origin" "46 954 167"
 			}
@@ -15125,7 +14288,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1446646"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "1.5"
@@ -15146,7 +14308,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1446649"
 				"_fifty_percent_distance" "350"
 				"_hardfalloff" "890"
 				"_light" "228 217 175 20"
@@ -15161,7 +14322,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1446682"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "1.5"
@@ -15182,7 +14342,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1446685"
 				"_fifty_percent_distance" "350"
 				"_hardfalloff" "890"
 				"_light" "228 217 175 20"
@@ -15197,7 +14356,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1447544"
 				"angles" "0 0 0"
 				"BasisNormal" "-0 0 1"
 				"BasisOrigin" "1156.25 732.005 205"
@@ -15221,7 +14379,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1448332"
 				"angles" "-33.5 250 90"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -15254,7 +14411,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1448466"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -15274,7 +14430,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1448544"
 				"targetname" "obj1a_c"
 				"origin" "172.506 293.176 9"
 				"connections"
@@ -15302,7 +14457,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1448788"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"angles" "0 27.5 90"
@@ -15322,7 +14476,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1448794"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"angles" "0 284 90"
@@ -15342,7 +14495,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1448806"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"angles" "0 310 90"
@@ -15362,7 +14514,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1448810"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"angles" "0 310 90"
@@ -15382,7 +14533,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1448812"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"angles" "0 310 90"
@@ -15402,7 +14552,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1448842"
 				"angles" "0 29 90"
 				"origin" "-193 1121 212.91"
 			}
@@ -15411,7 +14560,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1457623"
 				"angles" "0 50 90"
 				"origin" "2773 2194.01 770.5"
 			}
@@ -15420,7 +14568,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1457705"
 				"angles" "-34.8602 343.437 32.0123"
 				"BasisNormal" "-0.615662 -0.369949 0.695772"
 				"BasisOrigin" "4678 1115 772"
@@ -15444,7 +14591,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1457868"
 				"angles" "0 270 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -15481,7 +14627,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1467075"
 				"angles" "0 270 0"
 				"fademindist" "-1"
 				"fadescale" "1"
@@ -15501,7 +14646,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1467115"
 				"angles" "0 270 0"
 				"fademindist" "-1"
 				"fadescale" "1"
@@ -15521,7 +14665,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1467123"
 				"angles" "0 270 0"
 				"fademindist" "-1"
 				"fadescale" "1"
@@ -15541,7 +14684,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1467230"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -15562,7 +14704,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1467233"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -15586,7 +14727,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1467238"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -15606,7 +14746,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1467473"
 				"_light" "156 188 201 50"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -15620,7 +14759,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1467478"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -15645,7 +14783,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1478585"
 				"angles" "0 0 0"
 				"BasisNormal" "0 -1 0"
 				"BasisOrigin" "-223 -463 794"
@@ -15669,7 +14806,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1487692"
 				"angles" "0 183 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -15702,7 +14838,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1505702"
 				"angles" "0 0 0"
 				"GlowEntity10Color" "51 0 204"
 				"GlowEntity1Color" "64 0 0"
@@ -15727,7 +14862,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1505763"
 				"filtername" "obj9_b*"
 				"Negated" "Allow entities that match criteria"
 				"targetname" "obj9_f"
@@ -15738,7 +14872,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1506678"
 				"_cone" "75"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -15762,7 +14895,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1506767"
 				"angles" "0 0 0"
 				"BasisNormal" "-0 0 1"
 				"BasisOrigin" "3720 -1016 768"
@@ -15786,7 +14918,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1506792"
 				"angles" "0 0 0"
 				"BasisNormal" "-0 0 1"
 				"BasisOrigin" "3791 -1016 768"
@@ -15810,7 +14941,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1506847"
 				"angles" "0 27.5241 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "4384 -1105 776"
@@ -15834,7 +14964,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1507100"
 				"angles" "15.5032 254.095 0.270276"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -15850,7 +14979,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1507102"
 				"_cone" "45"
 				"_exponent" "0"
 				"_inner_cone" "30"
@@ -15868,7 +14996,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1516587"
 				"angles" "90 80.5 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -15909,7 +15036,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1516803"
 				"angles" "0 0 0"
 				"LowPriority" "0"
 				"texture" "nmrih/decals/bu_trash009"
@@ -15920,7 +15046,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1516953"
 				"angles" "0 34.5 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "4301 -831 776"
@@ -15944,7 +15069,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1517172"
 				"_cone" "45"
 				"_exponent" "1"
 				"_inner_cone" "30"
@@ -15962,7 +15086,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1517177"
 				"angles" "15.5032 67.595 0.270276"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -15978,7 +15101,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1527157"
 				"angles" "0 0 0"
 				"effect_name" "nmrih_police_lights_red"
 				"start_active" "0"
@@ -15990,7 +15112,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1527338"
 				"spawnflags" "2"
 				"targetname" "obj9_r"
 				"origin" "4992 584 776"
@@ -16010,7 +15131,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1527340"
 				"spawnflags" "0"
 				"targetname" "obj9_t"
 				"Template01" "obj9_z"
@@ -16023,7 +15143,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1527342"
 				"angles" "0 271 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -16044,7 +15163,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1527376"
 				"Case01" "1"
 				"Case02" "2"
 				"targetname" "obj9_ca"
@@ -16060,7 +15178,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1527443"
 				"angles" "0 0 0"
 				"targetname" "obj9_t1"
 				"origin" "2870.39 416.225 705"
@@ -16070,7 +15187,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1527527"
 				"angles" "0 0 0"
 				"EntityTemplate" "obj9_t"
 				"PostSpawnDirection" "0 0 0"
@@ -16088,7 +15204,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1527568"
 				"targetname" "obj9_d"
 				"origin" "5011.19 280.487 776"
 				"connections"
@@ -16104,7 +15219,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1527607"
 				"health" "10"
 				"message" "pl_mob.wav"
 				"pitch" "100"
@@ -16119,7 +15233,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1527659"
 				"goalent" "obj9_t1"
 				"graball" "1"
 				"interruptability" "0"
@@ -16134,7 +15247,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1536738"
 				"health" "10"
 				"message" "planck_alarm"
 				"pitch" "100"
@@ -16149,7 +15261,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1546511"
 				"acceleration" "500"
 				"angles" "60 124.5 0"
 				"deceleration" "500"
@@ -16167,7 +15278,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1546584"
 				"angles" "0 0 0"
 				"target" "obj9_p2"
 				"targetname" "obj9_p1"
@@ -16178,7 +15288,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1546614"
 				"angles" "0 0 0"
 				"targetname" "obj9_p2"
 				"origin" "3700 -878 871"
@@ -16188,7 +15297,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1546639"
 				"angles" "0 0 0"
 				"GlowEntity10Color" "51 0 204"
 				"GlowEntity1Color" "64 0 0"
@@ -16209,7 +15317,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1565635"
 				"health" "10"
 				"message" "planck_door"
 				"pitch" "100"
@@ -16228,7 +15335,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1565647"
 				"health" "10"
 				"message" "pl_startup.mp3"
 				"pitch" "100"
@@ -16243,7 +15349,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1577598"
 				"position0" "zehardenin"
 				"radius" "-1"
 				"soundscape" "planck.a_shack1"
@@ -16254,7 +15359,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1577620"
 				"position0" "spawn_block1"
 				"radius" "-1"
 				"soundscape" "planck.a_shack2"
@@ -16265,7 +15369,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1577690"
 				"angles" "0 0 0"
 				"spawnflags" "0"
 				"targetname" "sc2"
@@ -16276,7 +15379,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1577775"
 				"position0" "fog5"
 				"radius" "-1"
 				"soundscape" "planck.a_sewer"
@@ -16288,7 +15390,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1577979"
 				"MainSoundscapeName" "sc"
 				"radius" "-1"
 				"origin" "-179 -393 77.4899"
@@ -16298,7 +15399,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1578033"
 				"position0" "obj1_filter"
 				"position2" "obj1a_filter"
 				"radius" "-1"
@@ -16311,7 +15411,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1578125"
 				"radius" "-1"
 				"soundscape" "planck.a_underground_shack1"
 				"origin" "128 196.907 121.664"
@@ -16321,7 +15420,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1578191"
 				"position0" "p_t"
 				"position1" "bf_c"
 				"position2" "obj1a_filter"
@@ -16335,7 +15433,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1606523"
 				"position0" "sc8"
 				"radius" "-1"
 				"soundscape" "planck.a_underground_shack"
@@ -16346,7 +15443,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1606581"
 				"angles" "0 0 0"
 				"spawnflags" "0"
 				"targetname" "sc8"
@@ -16357,7 +15453,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1606615"
 				"MainSoundscapeName" "sc9"
 				"radius" "-1"
 				"origin" "-274 898 282.51"
@@ -16367,7 +15462,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1609901"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 -1"
 				"BasisOrigin" "1044 501 300"
@@ -16391,7 +15485,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1610092"
 				"position0" "p_t"
 				"position1" "event1_case"
 				"position3" "sc13"
@@ -16405,7 +15498,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1610186"
 				"MainSoundscapeName" "sc10"
 				"radius" "-1"
 				"origin" "895 471 310"
@@ -16415,7 +15507,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1619850"
 				"position0" "obj2_relay"
 				"radius" "-1"
 				"soundscape" "planck.a_cellar"
@@ -16427,7 +15518,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1620116"
 				"MainSoundscapeName" "sc13"
 				"radius" "-1"
 				"origin" "1415 2306.22 48.154"
@@ -16437,7 +15527,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1620276"
 				"position0" "obj3_ca"
 				"position1" "obj3_fi"
 				"position2" "obj2_filter"
@@ -16451,7 +15540,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1620309"
 				"MainSoundscapeName" "sc14"
 				"radius" "-1"
 				"origin" "1311 2375.8 74"
@@ -16461,7 +15549,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1629955"
 				"ammo" "0"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
@@ -16486,7 +15573,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1629978"
 				"ammo" "0"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
@@ -16511,7 +15597,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1640153"
 				"_cone" "60"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -16533,7 +15618,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1640158"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -16553,7 +15637,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1640839"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -16572,7 +15655,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1650732"
 				"angles" "0 295 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "-145 304 0"
@@ -16596,7 +15678,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1651117"
 				"angles" "0 116 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "-170 312 24.4448"
@@ -16620,7 +15701,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1651230"
 				"angles" "0 0 0"
 				"BasisNormal" "0.707107 -0.707107 0"
 				"BasisOrigin" "-174 311.892 60"
@@ -16644,7 +15724,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1651374"
 				"sides" ""
 				"origin" "-144 271 63"
 			}
@@ -16653,7 +15732,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1661223"
 				"angles" "0 9.42415 0"
 				"BasisNormal" "-0.284015 0.95882 0"
 				"BasisOrigin" "2380 2802 287"
@@ -16677,7 +15755,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1661474"
 				"angles" "0 350.576 0"
 				"BasisNormal" "-0.284015 -0.95882 0"
 				"BasisOrigin" "2379 3213 287"
@@ -16701,7 +15778,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1661677"
 				"angles" "0 34.8758 0"
 				"BasisNormal" "-0.771625 -0.636078 0"
 				"BasisOrigin" "2384.01 2613.41 264"
@@ -16725,7 +15801,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1661749"
 				"angles" "0 0 0"
 				"BasisNormal" "0 0 -1"
 				"BasisOrigin" "2408 2498 328"
@@ -16749,7 +15824,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1661989"
 				"position0" "sc18"
 				"radius" "-1"
 				"soundscape" "planck.a_trainstation"
@@ -16761,7 +15835,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1662112"
 				"MainSoundscapeName" "sc20"
 				"radius" "-1"
 				"origin" "1465.52 3367 331.613"
@@ -16771,7 +15844,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1662124"
 				"MainSoundscapeName" "sc20"
 				"radius" "-1"
 				"origin" "2430 2996.14 534"
@@ -16781,7 +15853,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1662181"
 				"position0" "obj3_counter"
 				"position1" "obj3_button2"
 				"position2" "obj3_sound"
@@ -16794,7 +15865,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1671847"
 				"max" "0"
 				"min" "0"
 				"StartDisabled" "1"
@@ -16813,7 +15883,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1671855"
 				"angles" "0 0 0"
 				"farz" "-1"
 				"fogcolor" "22 28 25"
@@ -16833,7 +15902,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1671965"
 				"spawnflags" "2"
 				"targetname" "obj4_r"
 				"origin" "2867 2404 775"
@@ -16848,7 +15916,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1672125"
 				"radius" "128"
 				"soundscape" "planck.a_elevator"
 				"origin" "1985 2457 781"
@@ -16858,7 +15925,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1672279"
 				"position0" "obj5_lon"
 				"position1" "obj5_loff"
 				"position2" "obj4_r"
@@ -16873,7 +15939,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1672415"
 				"spawnflags" "0"
 				"targetname" "obj5_loff"
 				"origin" "2298 1992.23 1018"
@@ -16891,7 +15956,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1672515"
 				"position0" "fog4"
 				"position1" "obj3_counter1"
 				"position2" "obj4_r"
@@ -16905,7 +15969,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1672646"
 				"position0" "fog4"
 				"position1" "obj3_counter1"
 				"position2" "obj4_r"
@@ -16920,7 +15983,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1672701"
 				"MainSoundscapeName" "sc21"
 				"radius" "-1"
 				"origin" "2553 2717 763.48"
@@ -16930,7 +15992,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1672726"
 				"in1" "0"
 				"in2" "40"
 				"out1" "0"
@@ -16948,7 +16009,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1672732"
 				"max" "40"
 				"startvalue" "0"
 				"targetname" "t_block_ct"
@@ -16965,7 +16025,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1672736"
 				"position0" "t_block_ct"
 				"position1" "t_block_ct1"
 				"position2" "obj6_f"
@@ -16982,7 +16041,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1672760"
 				"filtername" "obj6_jack"
 				"Negated" "Allow entities that match criteria"
 				"targetname" "obj6_f"
@@ -16993,7 +16051,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1672845"
 				"position0" "client"
 				"position1" "obj7_s1"
 				"radius" "-1"
@@ -17005,7 +16062,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1672926"
 				"targetname" "client"
 				"origin" "2650 1842 959"
 			}
@@ -17014,7 +16070,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1672928"
 				"health" "10"
 				"message" "pl_choke.mp3"
 				"pitch" "100"
@@ -17029,7 +16084,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1673017"
 				"MainSoundscapeName" "sc19"
 				"radius" "-1"
 				"origin" "2431 1769 1010.64"
@@ -17039,7 +16093,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1673882"
 				"health" "10"
 				"message" "pl_cough.mp3"
 				"pitch" "100"
@@ -17059,7 +16112,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1673890"
 				"angles" "0 0 0"
 				"farz" "-1"
 				"fogcolor" "53 25 10"
@@ -17079,7 +16131,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1673958"
 				"angles" "10.9729 274.075 0.776843"
 				"effect_name" "Car_exhaust"
 				"start_active" "1"
@@ -17090,7 +16141,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1675245"
 				"angles" "0 274 0"
 				"effect_name" "atmosphere_infected_haze_1"
 				"start_active" "1"
@@ -17101,7 +16151,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1699239"
 				"angles" "0 204.5 90"
 				"origin" "1202 943.68 206"
 				"spawnflags" "1"
@@ -17111,7 +16160,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1699442"
 				"angles" "0 270 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -17144,7 +16192,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1709066"
 				"angles" "0 90 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -17177,7 +16224,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1709234"
 				"_light" "255 255 255 100"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -17189,7 +16235,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1728416"
 				"spawnflags" "1"
 				"targetname" "fe_r"
 				"origin" "3250 -250.389 783"
@@ -17216,7 +16261,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1747840"
 				"angles" "0 59 0"
 				"fademindist" "-1"
 				"fadescale" "1"
@@ -17237,7 +16281,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1758256"
 				"position0" "obj9_a"
 				"position1" "f1"
 				"position2" "obj9_f"
@@ -17251,7 +16294,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1758309"
 				"spawnflags" "2"
 				"targetname" "obj9_a"
 				"origin" "4096 1627 1002.68"
@@ -17269,7 +16311,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1758362"
 				"filtername" "batt"
 				"Negated" "Allow entities that match criteria"
 				"targetname" "f1"
@@ -17280,7 +16321,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1758388"
 				"position0" "obj9_f"
 				"position1" "music"
 				"position2" "obj9_cc"
@@ -17300,7 +16340,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1758522"
 				"MainSoundscapeName" "sc23"
 				"radius" "-1"
 				"origin" "3963 1249 1019.82"
@@ -17310,7 +16349,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1758593"
 				"angles" "0 274 0"
 				"effect_name" "atmosphere_infected_haze_1"
 				"start_active" "1"
@@ -17321,7 +16359,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1758890"
 				"attack_sound_1" "NMRiH_Music.Attack"
 				"evac_sound_1" "nmo_planck.Evac"
 				"high_tension_sound_1" "NMRiH_Music.Tension_3"
@@ -17338,7 +16375,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1758994"
 				"Case01" "1"
 				"Case02" "2"
 				"Case03" "3"
@@ -17356,7 +16392,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1759067"
 				"Case01" "1"
 				"Case02" "2"
 				"Case03" "3"
@@ -17383,7 +16418,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1759101"
 				"spawnflags" "2"
 				"targetname" "obj8_r"
 				"origin" "2421 -713 849.801"
@@ -17398,7 +16432,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1759137"
 				"max" "6"
 				"targetname" "obj8_c"
 				"origin" "4542 -184 785"
@@ -17421,7 +16454,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1759185"
 				"health" "10"
 				"message" "ambient/machines/keyboard_fast3_1second.wav"
 				"pitch" "100"
@@ -17437,7 +16469,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1759211"
 				"max" "3"
 				"targetname" "obj9_c"
 				"origin" "3806 668 734"
@@ -17459,7 +16490,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1759260"
 				"angles" "0 0 0"
 				"effect_name" "Atmosphere_ceiling_dust"
 				"targetname" "obj7_pa"
@@ -17470,7 +16500,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1761027"
 				"angles" "0 270 0"
 				"effect_name" "nmrih_door_metal_explosion"
 				"start_active" "0"
@@ -17482,7 +16511,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1761296"
 				"health" "5"
 				"message" "ambient/materials/door_hit1.wav"
 				"pitch" "100"
@@ -17501,7 +16529,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1771159"
 				"MainSoundscapeName" "sc22"
 				"radius" "-1"
 				"origin" "4281 -1051 912.467"
@@ -17511,7 +16538,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1771179"
 				"position0" "obj8_s2"
 				"radius" "-1"
 				"soundscape" "planck.a_nerdroom"
@@ -17524,7 +16550,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1771907"
 				"spawnflags" "0"
 				"targetname" "obj5_lon"
 				"origin" "2086 2596 978.243"
@@ -17541,7 +16566,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1771925"
 				"targetname" "obj5_c"
 				"origin" "2203.14 2506.32 915"
 				"connections"
@@ -17566,7 +16590,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1772023"
 				"spawnflags" "2"
 				"targetname" "obj5_t"
 				"Template01" "obj5_t_n"
@@ -17577,7 +16600,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1772029"
 				"angles" "0 90 0"
 				"physdamagescale" "1.0"
 				"renderamt" "255"
@@ -17591,7 +16613,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1772382"
 				"angles" "0 0 0"
 				"effect_name" "nmrih_spark_shower_1"
 				"targetname" "batt_p"
@@ -17602,7 +16623,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1772455"
 				"health" "10"
 				"message" "ambient/energy/electric_loop.wav"
 				"pitch" "100"
@@ -17618,7 +16638,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1772708"
 				"angles" "0 0 0"
 				"health" "35"
 				"minangle" "360"
@@ -17634,7 +16653,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1772957"
 				"_cone" "45"
 				"_exponent" "1"
 				"_inner_cone" "30"
@@ -17652,7 +16670,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1772972"
 				"_cone" "45"
 				"_exponent" "1"
 				"_inner_cone" "30"
@@ -17670,7 +16687,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1782886"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -17691,7 +16707,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1782890"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -17712,7 +16727,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1782897"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -17733,7 +16747,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1782901"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -17754,7 +16767,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1782905"
 				"max" "6"
 				"min" "-1"
 				"targetname" "cn_digit4_counter"
@@ -17774,7 +16786,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1782909"
 				"max" "10"
 				"min" "-1"
 				"targetname" "cn_digit3_counter"
@@ -17793,7 +16804,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1782911"
 				"spawnflags" "2"
 				"targetname" "cn_timer"
 				"origin" "91 -5644 809"
@@ -17808,7 +16818,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1782915"
 				"max" "6"
 				"min" "-1"
 				"targetname" "cn_digit2_counter"
@@ -17827,7 +16836,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1782917"
 				"max" "60"
 				"min" "-1"
 				"targetname" "cn_digit12_counter"
@@ -17847,7 +16855,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1782919"
 				"max" "10"
 				"min" "-1"
 				"targetname" "cn_digit1_counter"
@@ -17866,7 +16873,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1782921"
 				"spawnflags" "2"
 				"targetname" "cn_increment"
 				"origin" "55.77 -5603.07 809"
@@ -17881,7 +16887,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1782923"
 				"spawnflags" "2"
 				"targetname" "cn_decrement"
 				"origin" "54.63 -5564.11 809"
@@ -17896,7 +16901,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1783141"
 				"spawnflags" "2"
 				"targetname" "cn_time"
 				"origin" "91 -5624 809"
@@ -17912,7 +16916,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1783574"
 				"max" "9999999"
 				"min" "0"
 				"targetname" "sc_time"
@@ -17930,7 +16933,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1783633"
 				"CompareValue" "3600"
 				"InitialValue" "0"
 				"targetname" "cn_cp"
@@ -17957,7 +16959,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1783642"
 				"spawnflags" "1"
 				"targetname" "sc_logic1"
 				"origin" "40 -5424 809"
@@ -17975,7 +16976,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1793654"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -17997,7 +16997,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1793662"
 				"spawnflags" "2"
 				"targetname" "cdt"
 				"Template01" "cd_*"
@@ -18008,7 +17007,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1793767"
 				"max" "10"
 				"min" "-1"
 				"StartDisabled" "0"
@@ -18031,7 +17029,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1793769"
 				"max" "10"
 				"min" "-1"
 				"StartDisabled" "0"
@@ -18053,7 +17050,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1793771"
 				"max" "10"
 				"min" "-1"
 				"StartDisabled" "0"
@@ -18075,7 +17071,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1793773"
 				"max" "10"
 				"min" "-1"
 				"StartDisabled" "0"
@@ -18097,7 +17092,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1793919"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -18120,7 +17114,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1793931"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -18143,7 +17136,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1793943"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -18166,7 +17158,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1793964"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -18189,7 +17180,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794002"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -18212,7 +17202,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794019"
 				"max" "0"
 				"min" "0"
 				"StartDisabled" "0"
@@ -18229,7 +17218,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794043"
 				"max" "10"
 				"min" "-1"
 				"StartDisabled" "0"
@@ -18251,7 +17239,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794229"
 				"spawnflags" "2"
 				"targetname" "sc_deduct"
 				"origin" "16 -5400 912"
@@ -18271,7 +17258,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794237"
 				"max" "9999999"
 				"min" "0"
 				"startvalue" "0"
@@ -18290,7 +17276,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794344"
 				"max" "10"
 				"min" "-1"
 				"StartDisabled" "0"
@@ -18312,7 +17297,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794346"
 				"max" "10"
 				"min" "-1"
 				"StartDisabled" "0"
@@ -18334,7 +17318,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794348"
 				"max" "10"
 				"min" "-1"
 				"StartDisabled" "0"
@@ -18356,7 +17339,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794350"
 				"max" "10"
 				"min" "-1"
 				"StartDisabled" "0"
@@ -18378,7 +17360,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794352"
 				"max" "10"
 				"min" "-1"
 				"StartDisabled" "0"
@@ -18400,7 +17381,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794354"
 				"max" "0"
 				"min" "0"
 				"StartDisabled" "0"
@@ -18417,7 +17397,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794356"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -18440,7 +17419,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794360"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -18463,7 +17441,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794364"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -18486,7 +17463,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794368"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -18509,7 +17485,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794372"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -18532,7 +17507,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794376"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -18554,7 +17528,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794666"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -18577,7 +17550,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1794694"
 				"max" "10"
 				"min" "-1"
 				"StartDisabled" "0"
@@ -18599,7 +17571,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1804690"
 				"angles" "0 0 0"
 				"EntityTemplate" "cdt"
 				"PostSpawnDirection" "0 0 0"
@@ -18613,7 +17584,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1814843"
 				"angles" "0 0 0"
 				"disableshadows" "1"
 				"fademindist" "-1"
@@ -18636,7 +17606,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1814909"
 				"max" "60"
 				"min" "-1"
 				"targetname" "cn_digit34_counter"
@@ -18655,7 +17624,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1814919"
 				"max" "9"
 				"min" "-1"
 				"targetname" "cn_digit5_counter"
@@ -18670,7 +17638,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1825023"
 				"max" "9999999"
 				"min" "0"
 				"StartDisabled" "0"
@@ -18687,7 +17654,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1825031"
 				"Case01" "9"
 				"Case02" "99"
 				"Case03" "999"
@@ -18715,7 +17681,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1845713"
 				"max" "9999999"
 				"min" "0"
 				"startvalue" "0"
@@ -18733,7 +17698,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1845768"
 				"max" "9999999"
 				"min" "0"
 				"startvalue" "3600"
@@ -18749,7 +17713,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1845819"
 				"spawnflags" "1"
 				"targetname" "sc_logic2"
 				"origin" "40 -5440 809"
@@ -18769,7 +17732,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1845827"
 				"angles" "0 0 0"
 				"EntityTemplate" "cdt"
 				"PostSpawnDirection" "0 0 0"
@@ -18783,7 +17745,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1845904"
 				"angles" "0 0 0"
 				"EntityTemplate" "cdt"
 				"PostSpawnDirection" "0 0 0"
@@ -18797,7 +17758,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1845990"
 				"spawnflags" "1"
 				"targetname" "sc_logic3"
 				"origin" "40 -5456 809"
@@ -18816,7 +17776,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1846194"
 				"targetname" "sc_kills_c"
 				"origin" "16 -5416 928"
 				"connections"
@@ -18834,7 +17793,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1846262"
 				"targetname" "sc_deaths_c"
 				"origin" "16 -5416 864"
 				"connections"
@@ -18852,7 +17810,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1846448"
 				"InitialValue" "0"
 				"targetname" "ce_decr"
 				"origin" "31 -5550 903"
@@ -18870,7 +17827,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1846918"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -18890,7 +17846,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1847049"
 				"radius" "-1"
 				"soundscape" "planck.a_default"
 				"origin" "925 -5598 1001.69"
@@ -18900,7 +17855,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1847209"
 				"InitialValue" "0"
 				"targetname" "bonus_branch"
 				"origin" "4753.66 -3860.22 777"
@@ -18933,7 +17887,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1857817"
 				"angles" "0 0 0"
 				"CriterionDistance" "2"
 				"CriterionVisibility" "2"
@@ -18952,7 +17905,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1858130"
 				"angles" "3.00075 359.548 0.191608"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -18968,7 +17920,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1858132"
 				"_cone" "45"
 				"_exponent" "1"
 				"_inner_cone" "30"
@@ -18986,7 +17937,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1858193"
 				"angles" "3.00075 20.048 0.191608"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -19002,7 +17952,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1858195"
 				"_cone" "45"
 				"_exponent" "1"
 				"_inner_cone" "30"
@@ -19020,7 +17969,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1878765"
 				"angles" "0 0 0"
 				"BasisNormal" "0 -1 0"
 				"BasisOrigin" "1721 3504 230"
@@ -19044,7 +17992,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1878914"
 				"angles" "0 330.5 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "1681 2696 216"
@@ -19068,7 +18015,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1879034"
 				"angles" "0 0 0"
 				"BasisNormal" "-1 -0 -0"
 				"BasisOrigin" "2243 3010.5 393"
@@ -19092,7 +18038,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1879124"
 				"angles" "0 0 0"
 				"BasisNormal" "1 0 -0"
 				"BasisOrigin" "-344 1067 244"
@@ -19116,7 +18061,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1879446"
 				"BasisNormal" "-0 0 1"
 				"BasisOrigin" "1005.56 1890.94 -15"
 				"BasisU" "1 0 0"
@@ -19139,7 +18083,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1879458"
 				"BasisNormal" "-0 0 1"
 				"BasisOrigin" "887.756 1623.74 -16"
 				"BasisU" "1 0 0"
@@ -19162,7 +18105,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1879930"
 				"angles" "0 76.5 0"
 				"effect_name" "door_fire_01"
 				"start_active" "1"
@@ -19173,7 +18115,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1880143"
 				"angles" "0 90 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "2964 1522.5 894"
@@ -19197,7 +18138,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1880191"
 				"angles" "0 90 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3035.5 1517 894"
@@ -19221,7 +18161,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1880277"
 				"angles" "0 270 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "2884.5 1484 894"
@@ -19245,7 +18184,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1880349"
 				"angles" "0 26 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3177 1371 894"
@@ -19270,7 +18208,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1880379"
 				"angles" "0 16 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3134 1358 894"
@@ -19294,7 +18231,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1880439"
 				"angles" "0 293 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3249 1401 894"
@@ -19318,7 +18254,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1880612"
 				"_light" "124 171 205 100"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -19331,7 +18266,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1880771"
 				"angles" "0 0 0"
 				"BasisNormal" "0 1 0"
 				"BasisOrigin" "3604 1248 961.455"
@@ -19355,7 +18289,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1891082"
 				"health" "10"
 				"message" "pl_drive1.mp3"
 				"pitch" "100"
@@ -19371,7 +18304,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1891122"
 				"health" "10"
 				"message" "planck_drive"
 				"pitch" "100"
@@ -19390,7 +18322,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1891165"
 				"health" "10"
 				"message" "pl_drive3.mp3"
 				"pitch" "100"
@@ -19410,7 +18341,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1891200"
 				"amplitude" "4"
 				"duration" "3"
 				"frequency" "2.5"
@@ -19424,7 +18354,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1891506"
 				"angles" "0 0 0"
 				"origin" "-231 -500 764"
 			}
@@ -19433,7 +18362,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1902655"
 				"extractcam" "obj9_h"
 				"extracttime" "99999"
 				"extractzone" "ext"
@@ -19445,7 +18373,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1902754"
 				"health" "10"
 				"message" "pl_scroll.wav"
 				"pitch" "100"
@@ -19460,7 +18387,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1902952"
 				"health" "10"
 				"message" "pl_sfail.wav"
 				"pitch" "100"
@@ -19475,7 +18401,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1903001"
 				"health" "10"
 				"message" "pl_scored.wav"
 				"pitch" "100"
@@ -19490,7 +18415,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "452635"
 				"angles" "0 4 0"
 				"EntityTemplate" "obj4_tempcab"
 				"PostSpawnDirection" "0 0 0"
@@ -19506,7 +18430,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1913762"
 				"angles" "0 90 0"
 				"EntityTemplate" "obj4_tempcab"
 				"PostSpawnDirection" "0 0 0"
@@ -19522,7 +18445,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1914387"
 				"angles" "0 180 0"
 				"EntityTemplate" "obj4_tempcab"
 				"PostSpawnDirection" "0 0 0"
@@ -19538,7 +18460,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1915208"
 				"angles" "0 270 0"
 				"EntityTemplate" "obj4_tempcab"
 				"PostSpawnDirection" "0 0 0"
@@ -19554,7 +18475,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1925890"
 				"fadeInDuration" "2"
 				"fadeOutDuration" "8"
 				"filename" "scripts/fire.raw"
@@ -19570,7 +18490,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1926153"
 				"_fifty_percent_distance" "170"
 				"_hardfalloff" "445"
 				"_light" "175 224 226 140"
@@ -19586,7 +18505,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1926158"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -19607,7 +18525,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1926718"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -19627,7 +18544,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1929190"
 				"sides" "174521 174522"
 				"origin" "-742.692 1137 -1.86891"
 			}
@@ -19636,7 +18552,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1929405"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -19655,7 +18570,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1929412"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -19675,7 +18589,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1930229"
 				"angles" "0 69 90"
 				"origin" "-396.99 1089 164.42"
 			}
@@ -19684,7 +18597,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1941203"
 				"angles" "-90 0 0"
 				"effect_name" "water_splash_leakypipe_silo"
 				"start_active" "1"
@@ -19695,7 +18607,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1941734"
 				"_light" "147 208 140 50"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "0.5"
@@ -19707,7 +18618,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709072"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -19726,7 +18636,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1952362"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -19745,7 +18654,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1952389"
 				"angles" "1.43124 182.033 92.6369"
 				"origin" "-85.8 -999.86 1350.22"
 				"spawnflags" "0"
@@ -19755,7 +18663,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1952581"
 				"_cone" "45"
 				"_exponent" "1"
 				"_inner_cone" "30"
@@ -19773,7 +18680,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1958700"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"angles" "-45.5 0 0"
@@ -19786,7 +18692,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1958718"
 				"origin" "2535 1559 975.055"
 			}
 		}
@@ -19794,7 +18699,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1958814"
 				"angles" "0 0 0"
 				"BasisNormal" "1 0 0"
 				"BasisOrigin" "-1146 1300.8 18"
@@ -19818,7 +18722,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1958863"
 				"_light" "255 255 255 35"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "0.5"
@@ -19830,7 +18733,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1958880"
 				"angles" "0 0 0"
 				"health" "35"
 				"minangle" "360"
@@ -19846,7 +18748,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1959016"
 				"filtername" "abox_prop*"
 				"Negated" "Allow entities that match criteria"
 				"targetname" "obj0_f"
@@ -19857,7 +18758,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1969646"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -19878,7 +18778,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1969653"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -19896,7 +18795,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1970004"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"angles" "0 319.5 90"
@@ -19910,7 +18808,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1970010"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"ammobox_762mm" "75"
@@ -19925,7 +18822,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1970226"
 				"spawnflags" "2"
 				"targetname" "obj1a_kt"
 				"Template01" "obj1a_k"
@@ -19937,7 +18833,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1970270"
 				"angles" "0 0 0"
 				"EntityTemplate" "obj1a_kt"
 				"PostSpawnDirection" "0 0 0"
@@ -19952,7 +18847,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1970324"
 				"spawnflags" "2"
 				"targetname" "obj3_t"
 				"Template01" "obj3_c"
@@ -19965,7 +18859,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1970933"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -19986,7 +18879,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1970936"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -20006,7 +18898,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1971257"
 				"health" "10"
 				"message" "pl_spooky.mp3"
 				"pitch" "100"
@@ -20021,7 +18912,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1971275"
 				"health" "10"
 				"message" "planck_piano"
 				"pitch" "100"
@@ -20036,7 +18926,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1971284"
 				"health" "10"
 				"message" "plats/piano.wav"
 				"pitch" "100"
@@ -20051,7 +18940,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1971481"
 				"targetname" "obj5_s"
 				"origin" "2204 2488 915"
 				"connections"
@@ -20066,7 +18954,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1972357"
 				"spawnflags" "0"
 				"targetname" "obj4_lt"
 				"Template01" "obj4_l"
@@ -20078,7 +18965,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1972359"
 				"ammo" "80"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
@@ -20095,7 +18981,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1972385"
 				"spawnflags" "1"
 				"targetname" "obj4_lr"
 				"origin" "2252.56 2140.62 657"
@@ -20111,7 +18996,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1973172"
 				"angles" "0 0 0"
 				"DefaultAnim" "Idle01"
 				"fademindist" "-1"
@@ -20136,7 +19020,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1994375"
 				"spawnflags" "1"
 				"targetname" "rs_2"
 				"origin" "228.778 -477.6 72.8706"
@@ -20157,7 +19040,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1994377"
 				"angles" "0 0 0"
 				"default_spawn" "1"
 				"spawnflags" "0"
@@ -20169,7 +19051,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1994382"
 				"spawnflags" "2"
 				"targetname" "rs_t"
 				"Template01" "rs_1"
@@ -20181,7 +19062,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1994488"
 				"angles" "0 0 0"
 				"origin" "-217 1125 212"
 			}
@@ -20190,7 +19070,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1994946"
 				"_cone" "60"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -20214,7 +19093,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1996344"
 				"_fifty_percent_distance" "75"
 				"_hardfalloff" "160"
 				"_light" "141 243 165 100"
@@ -20230,7 +19108,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1996860"
 				"_fifty_percent_distance" "75"
 				"_hardfalloff" "160"
 				"_light" "141 243 165 100"
@@ -20246,7 +19123,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1996870"
 				"_fifty_percent_distance" "75"
 				"_hardfalloff" "160"
 				"_light" "141 243 165 100"
@@ -20262,7 +19138,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1996875"
 				"_fifty_percent_distance" "75"
 				"_hardfalloff" "160"
 				"_light" "141 243 165 100"
@@ -20278,7 +19153,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1996890"
 				"_fifty_percent_distance" "75"
 				"_hardfalloff" "160"
 				"_light" "141 243 165 100"
@@ -20294,7 +19168,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1996905"
 				"_fifty_percent_distance" "75"
 				"_hardfalloff" "160"
 				"_light" "141 243 165 100"
@@ -20310,7 +19183,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1996930"
 				"_fifty_percent_distance" "75"
 				"_hardfalloff" "160"
 				"_light" "141 243 165 100"
@@ -20326,7 +19198,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1996950"
 				"_fifty_percent_distance" "75"
 				"_hardfalloff" "160"
 				"_light" "141 243 165 100"
@@ -20342,7 +19213,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1997554"
 				"_cone" "50"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -20367,7 +19237,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1997559"
 				"angles" "-43.5 319 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -20383,7 +19252,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "1997638"
 				"_light" "211 251 254 35"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "1"
@@ -20396,7 +19264,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2019173"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -20417,7 +19284,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2019176"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -20437,7 +19303,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2019369"
 				"sides" ""
 				"origin" "-500 -495 597.737"
 			}
@@ -20446,7 +19311,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2019902"
 				"angles" "0 330 0"
 				"origin" "-518.99 -600 581"
 			}
@@ -20455,7 +19319,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2019941"
 				"angles" "0 4 0"
 				"origin" "226.15 -131 29.46"
 			}
@@ -20464,7 +19327,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2019987"
 				"_light" "141 243 165 120"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "0.5"
@@ -20477,7 +19339,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2030757"
 				"spawnflags" "1"
 				"targetname" "wrt"
 				"Template01" "wr"
@@ -20488,7 +19349,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2030789"
 				"angles" "0 -90 0"
 				"EntityTemplate" "wrt"
 				"PostSpawnDirection" "0 0 0"
@@ -20502,7 +19362,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2031091"
 				"_light" "141 243 165 120"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "0.5"
@@ -20515,7 +19374,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2031430"
 				"position0" "sc3"
 				"radius" "-1"
 				"soundscape" "planck.a_radiation"
@@ -20526,7 +19384,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2031477"
 				"MainSoundscapeName" "sc"
 				"radius" "-1"
 				"origin" "-569 -507 107.587"
@@ -20536,7 +19393,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2031588"
 				"channel" "1"
 				"color" "199 199 199"
 				"color2" "101 131 139"
@@ -20556,7 +19412,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2042606"
 				"angles" "0 0 0"
 				"origin" "1131.31 2715.17 283.28"
 			}
@@ -20565,7 +19420,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2043013"
 				"filtername" "obj3_key"
 				"Negated" "Allow entities that match criteria"
 				"targetname" "obj3_fi"
@@ -20582,7 +19436,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2043055"
 				"filtername" "obj1a_bom*"
 				"Negated" "Allow entities that match criteria"
 				"targetname" "obj2_filter"
@@ -20603,7 +19456,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2043242"
 				"targetname" "event1_case"
 				"origin" "1502 731 336"
 				"connections"
@@ -20632,7 +19484,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2043310"
 				"spawnflags" "2"
 				"targetname" "p_t"
 				"origin" "651 315 190.9"
@@ -20652,7 +19503,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "873314"
 				"angles" "-25.474 272.769 -1.19188"
 				"effect_name" "WaterLeak_Pipe_1"
 				"start_active" "1"
@@ -20663,7 +19513,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2043555"
 				"targetname" "bf_c"
 				"origin" "-142 496 152"
 				"connections"
@@ -20678,7 +19527,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2043792"
 				"LowerRandomBound" "7"
 				"spawnflags" "0"
 				"StartDisabled" "1"
@@ -20697,7 +19545,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2043796"
 				"filtername" "obj1_key"
 				"Negated" "Allow entities that match criteria"
 				"targetname" "obj1_filter"
@@ -20712,7 +19559,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2043826"
 				"angles" "0 0 0"
 				"farz" "-1"
 				"fogcolor" "19 44 28"
@@ -20732,7 +19578,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2044132"
 				"angles" "0 26.5 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -20764,7 +19609,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2044730"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -20785,7 +19629,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2044990"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -20805,7 +19648,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2045059"
 				"duration" "1"
 				"holdtime" "999"
 				"renderamt" "255"
@@ -20819,7 +19661,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2045097"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -20838,7 +19679,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2055877"
 				"targetname" "obj6_c"
 				"origin" "3890.58 1340.66 925"
 				"connections"
@@ -20856,7 +19696,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2055881"
 				"angles" "0 0 0"
 				"EntityTemplate" "obj3_temp2"
 				"PostSpawnDirection" "0 0 0"
@@ -20870,7 +19709,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2077553"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"ammobox_12gauge" "15"
@@ -20900,7 +19738,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2077561"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"ammobox_12gauge" "15"
@@ -20930,7 +19767,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2077565"
 				"ammo_fill_pct_max" "100"
 				"ammo_fill_pct_min" "100"
 				"ammobox_12gauge" "15"
@@ -20960,7 +19796,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2078303"
 				"health" "10"
 				"message" "planck_gate"
 				"pitch" "100"
@@ -20975,7 +19810,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2079350"
 				"max" "20"
 				"targetname" "a_c"
 				"origin" "33.6215 -714.164 1357"
@@ -20992,7 +19826,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2079364"
 				"Case01" "1"
 				"Case02" "2"
 				"Case03" "3"
@@ -21036,7 +19869,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2079375"
 				"Case01" "17"
 				"Case02" "18"
 				"Case03" "19"
@@ -21056,7 +19888,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2079880"
 				"_cone" "80"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -21081,7 +19912,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2079885"
 				"angles" "-44 45 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -21097,7 +19927,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2106060"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -21117,7 +19946,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2106065"
 				"_cone" "80"
 				"_constant_attn" "0"
 				"_distance" "0"
@@ -21139,7 +19967,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2106070"
 				"angles" "90 0 0"
 				"disablereceiveshadows" "1"
 				"HDRColorScale" "1.0"
@@ -21155,7 +19982,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2106157"
 				"angles" "0 90 0"
 				"DisableBoneFollowers" "0"
 				"disablereceiveshadows" "0"
@@ -21187,7 +20013,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2106226"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -21207,7 +20032,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2106234"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "10"
@@ -21226,7 +20050,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2106321"
 				"angles" "0 0 0"
 				"EntityTemplate" "abox_t"
 				"PostSpawnDirection" "0 0 0"
@@ -21244,7 +20067,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2128576"
 				"Case01" "1"
 				"Case02" "2"
 				"Case03" "3"
@@ -21272,7 +20094,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2128610"
 				"angles" "0 0 0"
 				"Magnitude" "1"
 				"spawnflags" "128"
@@ -21285,7 +20106,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2128897"
 				"angles" "0 4 0"
 				"origin" "1525 2557.99 216"
 				"targetname" "hs"
@@ -21295,7 +20115,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2150756"
 				"angles" "0 132.5 0"
 				"origin" "111 -590.99 1365.58"
 			}
@@ -21304,7 +20123,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "710065"
 				"angles" "0 0 0"
 				"targetname" "tele"
 				"origin" "-157 -765 1365"
@@ -21314,7 +20132,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2163104"
 				"_light" "236 160 19 50"
 				"_lightHDR" "-1 -1 -1 1"
 				"_lightscaleHDR" "0.35"
@@ -21326,7 +20143,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2163315"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "1"
@@ -21347,7 +20163,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2163494"
 				"angles" "11.3528 354.393 -24.5693"
 				"BasisNormal" "0.309017 0.379233 0.872176"
 				"BasisOrigin" "-83.157 957 169"
@@ -21371,7 +20186,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2174912"
 				"filtername" "player_counted"
 				"Negated" "1"
 				"targetname" "f0"
@@ -21382,7 +20196,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2174957"
 				"spawnflags" "2"
 				"targetname" "t_t"
 				"Template01" "t"
@@ -21393,7 +20206,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "709447"
 				"angles" "0 0 0"
 				"damagetoenablemotion" "0"
 				"Damagetype" "0"
@@ -21431,7 +20243,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2175433"
 				"goalent" "target"
 				"graball" "1"
 				"m_iszEntity" "obj0_shamb*"
@@ -21445,7 +20256,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2175816"
 				"angles" "0 0 0"
 				"fademindist" "-1"
 				"fadescale" "1"
@@ -21464,7 +20274,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2209133"
 				"amplitude" "4"
 				"duration" "3"
 				"frequency" "30"
@@ -21478,7 +20287,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2232048"
 				"spawnflags" "1"
 				"targetname" "pspawn_r"
 				"origin" "248 -504 72.8706"
@@ -21499,7 +20307,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2232050"
 				"spawnflags" "2"
 				"targetname" "pspawn_t"
 				"Template01" "pspawn_nmrih"
@@ -21511,7 +20318,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2232055"
 				"angles" "0 0 0"
 				"default_spawn" "1"
 				"spawnflags" "0"
@@ -21523,7 +20329,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2243035"
 				"angles" "0 332 0"
 				"BasisNormal" "0 0 1"
 				"BasisOrigin" "3 -772 1348"
@@ -21547,7 +20352,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2288317"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -21567,7 +20371,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2288937"
 				"_constant_attn" "0"
 				"_distance" "0"
 				"_fifty_percent_distance" "0"
@@ -21587,7 +20390,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2288946"
 				"disablereceiveshadows" "0"
 				"framerate" "10.0"
 				"GlowProxySize" "2.0"
@@ -21608,7 +20410,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2289049"
 				"targetname" "obj1a_c"
 				"origin" "187.718 315.163 8"
 				"connections"
@@ -21627,7 +20428,6 @@
 		{
 			"keyvalues"
 			{
-				"id" "2289076"
 				"angles" "0 21 0"
 				"damagetoenablemotion" "0"
 				"Damagetype" "0"
