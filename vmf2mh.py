@@ -41,7 +41,7 @@ def stringify_entity(entity_data):
 
     for kv in entity_data:
         if isinstance(kv[1], str):
-            if kv[0] != 'classname':
+            if kv[0] != 'id' and kv[0] != 'classname':
                 tierkv += f'\t\t\t\t"{kv[0]}" "{kv[1]}"\n'
 
         elif kv[0] == 'solid':
@@ -49,7 +49,7 @@ def stringify_entity(entity_data):
 
         elif kv[0] == 'connections':
             for conn in kv[1]:
-                tierconn += f'\t\t\t\t"{conn[0]}" "{conn[1]}"\n'
+                tierconn += f'\t\t\t\t\t"{conn[0]}" "{conn[1]}"\n'
 
     outstr = f'\t\t"{classname}"\n'
     outstr += '\t\t{\n'
@@ -57,17 +57,18 @@ def stringify_entity(entity_data):
     if len(tierent):
         outstr += tierent
 
+    if len(tierconn):
+        tierkv += f'\t\t\t\t"connections"\n'
+        tierkv += '\t\t\t\t{\n'
+        tierkv += tierconn
+        tierkv += '\t\t\t\t}\n'
+
     if len(tierkv):
-        outstr += f'\t\t\tkeyvalues\n'
+        outstr += f'\t\t\t"keyvalues"\n'
         outstr += '\t\t\t{\n'
         outstr += tierkv
         outstr += '\t\t\t}\n'
 
-    if len(tierconn):
-        outstr += f'\t\t\tconnections\n'
-        outstr += '\t\t\t{\n'
-        outstr += tierconn
-        outstr += '\t\t\t}\n'
     outstr += '\t\t}\n'
     return outstr
 
